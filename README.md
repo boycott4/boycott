@@ -1,5 +1,7 @@
 # Boycott these companies
 
+Source [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
+
 | Name | Reason | Known Brands | Alternatives
 |-----------------|-----------------|-----------------|-----------------|
 | Nestle| [Boycotted by Muslims](https://theislamicinformation.com/news/list-of-brands-supporting-israel/) | Nesquik,Nescafé,Purina,Gerber,Kit Kat,Häagen-Dazs | Shop at [Aldi](https://www.aldi.com/)|
