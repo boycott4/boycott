@@ -18,7 +18,6 @@ Sources:
 | TripAdvisor Inc. | ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| | |
 | Expedia Group Inc. | ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx) | | |
 | Airbnb Inc. |  ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| | | 
-| Nestle| [Boycotted by Muslims](https://theislamicinformation.com/news/list-of-brands-supporting-israel/) | ▪ Nesquik<br> ▪ Nescafé<br> ▪ Purina<br> ▪ Gerber<br> ▪ Kit Kat<br> ▪ Häagen-Dazs | ▪ Shop at [Aldi](https://www.aldi.com/)|
 | | | |
 | | | |
 | | | |
