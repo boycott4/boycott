@@ -4,15 +4,12 @@
 - Support for the Israeli military in any form.
 - Censorship or calls for censorship of pro-Palestinian content or opinions.
 - Engage in illegal activities in the occupied Palestinian territory.
+- Hate speech against Palestinians
 
 ### Will not be included
 - Companies that legally conduct non-military-related business in Israel.
 - Individuals and organizations that support Israel but do not advocate for violent actions against Palestinians or pro-Palestinian supporters.
   
-### Sources:
-- [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
-- [UN Report: HRC 43 71 Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)
-
 | Name | Reason | Known Brands | Alternatives |
 |-----------------|-----------------|-----------------|-----------------|
 | McDonalds | [IDF Sponsor - Free meals for Israeli soldiers](https://www.freemalaysiatoday.com/category/business/2023/10/18/free-meals-for-israeli-soldiers-divide-mcdonalds-franchises/) | ▪ McCafé  | ▪ [Five Guys](https://www.fiveguys.com/)<br> ▪ [Wendies](https://www.wendys.com/) |
@@ -40,6 +37,10 @@
 | | | | |
 | | | | |
 
+### Additional sources:
+- [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
+- [UN Report: HRC 43 71 Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)
+- 
 * ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=boycott4.boycott)
 
 [![Share on Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2F&label=Share%20on%20Twitter)](https://twitter.com/intent/tweet?text=Please%20boycott&url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2F)
