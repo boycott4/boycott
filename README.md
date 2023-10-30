@@ -1,5 +1,7 @@
 # Boycott these companies and individuals
 
+[![Share on Twitter](https://img.shields.io/twitter/url?style=social&url=https://boycott4.github.io/boycott/)](https://twitter.com/intent/tweet?text=Companies and individuals to Boycott&url=https://boycott4.github.io/boycott/)
+
 Sources:
 - [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
 - [UN Report: HRC 43 71 Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)
@@ -23,4 +25,4 @@ Sources:
 | | | |
 | | | |
 
-[![Share on Twitter](https://img.shields.io/twitter/url?style=social&url=https://boycott4.github.io/boycott/)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20page%21&url=https://boycott4.github.io/boycott/)
+
