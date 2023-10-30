@@ -1,4 +1,4 @@
-# Boycott these companies and individuals to restore peace in Palestine
+# Boycott these entities to help restore peace in Palestine.
 
 ### Rules of inclusion
 - Support for the Israeli military in any form.
