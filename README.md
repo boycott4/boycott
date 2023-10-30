@@ -25,7 +25,6 @@ Sources:
 
 
 * ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=boycott4.boycott)
-* [![Visitor Count](https://img.shields.io/github/visitors/boycott4/boycott?style=social)](https://github.com/boycott4/boycott)
 
 [![Share on Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2F&label=Share%20on%20Twitter)](https://twitter.com/intent/tweet?text=Please%20boycott&url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2F)
 
