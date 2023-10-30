@@ -26,4 +26,13 @@ Sources:
 | | | |
 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=boycott4.boycott)
+* ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=boycott4.boycott)
+* [![Visitor Count](https://img.shields.io/github/visitors/boycott4/boycott?style=social)](https://github.com/boycott4/boycott)
+
+[![Share on Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2F&label=Share%20on%20Twitter)](https://twitter.com/intent/tweet?text=Please%20boycott&url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2F)
+
+[![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-blue)](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2F&title=Please%20boycott)
+
+[![Share on Reddit](https://img.shields.io/badge/Share-Reddit-orange)](https://www.reddit.com/submit?url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2F&title=Please%20boycott)
+
+[![Share via Email](https://img.shields.io/badge/Share-Email-brightgreen)](mailto:?subject=Please%20boycott&body=I%20thought%20you%20might%20find%20this%20interesting:%20https%3A%2F%2Fboycott4.github.io%2Fboycott%2F)
