@@ -22,3 +22,5 @@ Sources:
 | | | |
 | | | |
 | | | |
+
+![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=$.total&url=https://visitor-badge.glitch.me/count.json)
