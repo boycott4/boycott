@@ -22,7 +22,7 @@ Sources:
 | [Lindsey Graham, Senator SC](https://en.wikipedia.org/wiki/Lindsey_Graham) | [Incitement to genocide. Level the place (Gaza)](https://www.commondreams.org/news/lindsey-graham) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
 | [Donald Trump, Former President](https://en.wikipedia.org/wiki/Donald_Trump) | Treason,Genocide support: ['I am for Israel First: Trump Backs Military Aid for Israel, Netanyahu](https://freebeacon.com/national-security/im-for-israel-first-trump-backs-military-aid-for-israel-netanyahu/) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States))  | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 | [Jordan Peterson, Blogger](https://en.wikipedia.org/wiki/Jordan_Peterson)| [Incitement to genocide. Give them (Palestinians) hell, Netanyahu](https://www.middleeastmonitor.com/20231010-after-advocating-death-and-destruction-on-gaza-jordan-peterson-proves-he-is-nothing-but-a-spiritual-charlatan/) | | |
-| [Alex Johns, TV producer, Conspiracy theorist](https://en.wikipedia.org/wiki/Alex_Johns)| [Incitement to genocide. Use carpet bombs/MOABs and destroy Northern Gaza]([http://www.renegadetribune.com/alex-jones-calls-for-israel-to-use-moabs-to-carpet-bomb-gaza/](https://www.youtube.com/watch?v=DATY7s43U-k))| | |
+| [Alex Johns, TV producer, Conspiracy theorist](https://en.wikipedia.org/wiki/Alex_Johns)| [Incitement to genocide. Use carpet bombs/MOABs, Destroy Northern Gaza](http://www.renegadetribune.com/alex-jones-calls-for-israel-to-use-moabs-to-carpet-bomb-gaza/](https://www.youtube.com/watch?v=DATY7s43U-k)| | |
 | | | | |
 | | | | |
 | | | | |
