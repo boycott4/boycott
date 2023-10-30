@@ -23,8 +23,9 @@ Sources:
 | [Donald Trump, Former President](https://en.wikipedia.org/wiki/Donald_Trump) | Treason,Genocide support: ['I am for Israel First: Trump Backs Military Aid for Israel, Netanyahu](https://freebeacon.com/national-security/im-for-israel-first-trump-backs-military-aid-for-israel-netanyahu/) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States))  | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 | [Jordan Peterson, Blogger](https://en.wikipedia.org/wiki/Jordan_Peterson)| [Incitement to genocide. Give them (Palestinians) hell, Netanyahu](https://www.middleeastmonitor.com/20231010-after-advocating-death-and-destruction-on-gaza-jordan-peterson-proves-he-is-nothing-but-a-spiritual-charlatan/) | | |
 | [Alex Johns, TV producer, Conspiracy theorist](https://en.wikipedia.org/wiki/Alex_Johns)| [Incitement to genocide. Use carpet bombs/MOABs, Destroy Northern Gaza](https://www.youtube.com/watch?v=DATY7s43U-k)| | |
-|[Megyn Kelly, Journalist](https://en.wikipedia.org/wiki/Megyn_Kelly) |  ▪ [Label palestinian supproters as terrorist sympathizers](https://twitter.com/megynkelly/status/1715709009431273964)<br>  ▪ [Bullied other celebrities for their pro-palestinian stance](https://twitter.com/megynkelly/status/1714091715861131582) | | |
+|[Megyn Kelly, Journalist](https://en.wikipedia.org/wiki/Megyn_Kelly) |  ▪ [Labeled palestinian supproters as terrorist sympathizers](https://twitter.com/megynkelly/status/1715709009431273964)<br>  ▪ [Bullied other celebrities for their pro-palestinian stance](https://twitter.com/megynkelly/status/1714091715861131582) | | |
 | | | | |
+|[Nikki Haley, Politician](https://en.wikipedia.org/wiki/Nikki_Haley) | Support of war [Support Israel with whatever they need])(https://iowacapitaldispatch.com/2023/10/20/nikki-haley-says-she-would-support-israel-strengthen-u-s-military-as-president/) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 
 
 * ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=boycott4.boycott)
