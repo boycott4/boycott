@@ -1,4 +1,4 @@
-|# Boycott these companies and individuals
+# Boycott these companies and individuals
 
 Source [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
 
