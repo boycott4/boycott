@@ -1,7 +1,5 @@
 # Boycott these companies and individuals
 
-[![Share on Twitter](https://img.shields.io/twitter/url?style=social&url=https://boycott4.github.io/boycott/)](https://twitter.com/intent/tweet?text=Companies%20and%20individuals%20to%20boycott&url=https://boycott4.github.io/boycott/)
-
 Sources:
 - [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
 - [UN Report: HRC 43 71 Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)
@@ -36,3 +34,9 @@ Sources:
 [![Share on Reddit](https://img.shields.io/badge/Share-Reddit-orange)](https://www.reddit.com/submit?url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2F&title=Please%20boycott)
 
 [![Share via Email](https://img.shields.io/badge/Share-Email-brightgreen)](mailto:?subject=Please%20boycott&body=I%20thought%20you%20might%20find%20this%20interesting:%20https%3A%2F%2Fboycott4.github.io%2Fboycott%2F)
+
+[![Share on Telegram](https://img.shields.io/badge/Share-Telegram-blue)](https://t.me/share/url?url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2F&text=Please%20boycott)
+
+[![Share on Viber](https://img.shields.io/badge/Share-Viber-purple)](viber://forward?text=Please%20boycott%20https%3A%2F%2Fboycott4.github.io%2Fboycott%2F)
+
+[![Share on Gab](https://img.shields.io/badge/Share-Gab-blue)](https://gab.com/share?url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2F)
