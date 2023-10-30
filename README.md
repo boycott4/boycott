@@ -23,4 +23,4 @@ Sources:
 | | | |
 | | | |
 
-![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=$.total&url=https://boycott4.github.io/boycott/)
+![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=$.total&url=https://boycott4.github.io/boycott/count.json)
