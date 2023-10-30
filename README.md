@@ -1,8 +1,10 @@
 # Boycott these companies and individuals
 
-Source [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
+Sources:
+- [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
+- [UN Report: HRC 43 71 Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory]
 
-| Name | Reason | Known Brands | Alternatives
+| Name | Reason | Known Brands | Alternatives |
 |-----------------|-----------------|-----------------|-----------------|
 | Nestle| [Boycotted by Muslims](https://theislamicinformation.com/news/list-of-brands-supporting-israel/) | ▪ Nesquik ▪ Nescafé ▪ Purina ▪ Gerber ▪ Kit Kat ▪ Häagen-Dazs | ▪ Shop at [Aldi](https://www.aldi.com/)|
 | McDonalds | [IDF Sponsor](https://www.freemalaysiatoday.com/category/business/2023/10/18/free-meals-for-israeli-soldiers-divide-mcdonalds-franchises/) | ▪ McCafé  | ▪ [Five Guys](https://www.fiveguys.com/)<br> ▪ [Wendies](https://www.wendys.com/) |
@@ -12,3 +14,9 @@ Source [List of Brands That Muslims Are Boycotting](https://theislamicinformatio
 |[Fox News](https://en.wikipedia.org/wiki/Fox_News)| ▪ [Hate speech against Palestinians](https://twitter.com/Neolibtears/status/1716874078588711243)|▪ [News Corp](https://en.wikipedia.org/wiki/News_Corp)| |
 | [Vivek Ramaswamy](https://en.wikipedia.org/wiki/Vivek_Ramaswamy) | ▪ [I would love nothing more than the IDF to put the heads of the top 100 Hamas leaders on stakes and line them up on the Gaza- Israel border.](https://twitter.com/HananyaNaftali/status/1718511787904278734) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 | [Mike Johnson](https://en.wikipedia.org/wiki/Mike_Johnson_(Louisiana_politician)) | ▪ [Funding the war](https://twitter.com/mtracey/status/1718639998629498929) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
+| General Mills | ▪ [UN Report: Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| | |
+| Motorola Solutions | ▪ [UN Report: Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| | |
+| TripAdvisor Inc. | ▪ [UN Report: Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| | |
+| Expedia Group Inc. | ▪ [UN Report: Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx) | | |
+| Airbnb Inc. |  ▪ [UN Report: Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| | | 
+| | | |
