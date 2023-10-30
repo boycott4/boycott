@@ -1,6 +1,15 @@
-# Boycott these companies and individuals
+# Boycott these companies and individuals to restore peace in Palestine
 
-Sources:
+### Rules of inclusion
+- Support for the Israeli military in any form.
+- Censorship or calls for censorship of pro-Palestinian content or opinions.
+- Engage in illegal activities in the occupied Palestinian territory.
+
+### Will not be included
+- Companies that legally conduct non-military-related business in Israel.
+- Individuals and organizations that support Israel but do not advocate for violent actions against Palestinians or pro-Palestinian supporters.
+  
+### Sources:
 - [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
 - [UN Report: HRC 43 71 Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)
 
