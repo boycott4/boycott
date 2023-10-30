@@ -1,6 +1,6 @@
 # Boycott these companies and individuals
 
-[![Share on Twitter](https://img.shields.io/twitter/url?style=social&url=https://boycott4.github.io/boycott/)](https://twitter.com/intent/tweet?text=Companies and individuals to Boycott&url=https://boycott4.github.io/boycott/)
+[![Share on Twitter](https://img.shields.io/twitter/url?style=social&url=https://boycott4.github.io/boycott/)](https://twitter.com/intent/tweet?text=Companies%20and%20individuals%20to%20boycott&url=https://boycott4.github.io/boycott/)
 
 Sources:
 - [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
