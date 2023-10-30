@@ -6,6 +6,7 @@
 - Engage in illegal activities in the occupied Palestinian territory.
 - Hate speech against Palestinians
 - Prioritizing Israeli interests over the interests of one's own country.
+- Denial of responsibility by Israel for Palestinian civilian casualties.
 
 ### Will not be included
 - Companies that legally conduct non-military-related business in Israel.
