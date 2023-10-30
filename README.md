@@ -9,7 +9,7 @@
 
 ### Will not be included
 - Companies that legally conduct non-military-related business in Israel.
-- Entities that support Israel but do not advocate for violent actions against Palestinians or pro-Palestinian supporters.
+- Entities supporting Israel without advocating harm to Palestinians or their supporters.
   
 | Name | Reason | Known Brands | Alternatives |
 |-----------------|-----------------|-----------------|-----------------|
