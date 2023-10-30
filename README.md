@@ -5,7 +5,7 @@
 - Censorship or calls for censorship of pro-Palestinian content or opinions.
 - Engage in illegal activities in the occupied Palestinian territory.
 - Hate speech against Palestinians
-- Political treason, prioritizing Israeli interests over the interests of one's own country.
+- Prioritizing Israeli interests over the interests of one's own country.
 
 ### Will not be included
 - Companies that legally conduct non-military-related business in Israel.
