@@ -23,6 +23,4 @@ Sources:
 | | | |
 | | | |
 
-![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=$.total&url=https://visitor-badge.glitch.me/count.json)
-
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+[![Share on Twitter](https://img.shields.io/twitter/url?style=social&url=https://boycott4.github.io/boycott/)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20page%21&url=https://boycott4.github.io/boycott/)
