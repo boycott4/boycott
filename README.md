@@ -18,6 +18,7 @@ Sources:
 | TripAdvisor Inc. | ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| | |
 | Expedia Group Inc. | ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx) | | |
 | Airbnb Inc. |  ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| | | 
+| Booking Holdings |  ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)|  ▪ Booking.com<br>  ▪ Priceline.com<br>  ▪ Agoda.com<br>  ▪ Kayak.com<br>  ▪ Cheapflights<br>  ▪ Rentalcars.com<br>  ▪ Momondo<br> ▪ OpenTable | | 
 | | | |
 | | | |
 | | | |
