@@ -19,8 +19,8 @@ Sources:
 | Expedia Group Inc. | ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx) | | |
 | Airbnb Inc. |  ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| | | 
 | Booking Holdings |  ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)|  ▪ Booking.com<br>  ▪ Priceline.com<br>  ▪ Agoda.com<br>  ▪ Kayak.com<br>  ▪ Cheapflights<br>  ▪ Rentalcars.com<br>  ▪ Momondo<br> ▪ OpenTable | | 
-| [Lindsey Graham, Senator SC](https://en.wikipedia.org/wiki/Lindsey_Graham) | [incitement to genocide](https://www.commondreams.org/news/lindsey-graham) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | |
-| [Donald Trump, Former President](https://en.wikipedia.org/wiki/Donald_Trump) | Treason,Genocide support: ['I am for Israel First: Trump Backs Military Aid for Israel, Netanyahu](https://freebeacon.com/national-security/im-for-israel-first-trump-backs-military-aid-for-israel-netanyahu/) | | |
+| [Lindsey Graham, Senator SC](https://en.wikipedia.org/wiki/Lindsey_Graham) | [incitement to genocide](https://www.commondreams.org/news/lindsey-graham) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
+| [Donald Trump, Former President](https://en.wikipedia.org/wiki/Donald_Trump) | Treason,Genocide support: ['I am for Israel First: Trump Backs Military Aid for Israel, Netanyahu](https://freebeacon.com/national-security/im-for-israel-first-trump-backs-military-aid-for-israel-netanyahu/) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States))  | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 | | | | |
 
 
