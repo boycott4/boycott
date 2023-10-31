@@ -34,8 +34,8 @@
 |[Megyn Kelly, Journalist](https://en.wikipedia.org/wiki/Megyn_Kelly) |  ▪ [She labeled Palestinian supporters as sympathizers of terrorists.](https://twitter.com/megynkelly/status/1715709009431273964)<br>  ▪ [She bullied other celebrities for taking a pro-Palestinian stance.](https://twitter.com/megynkelly/status/1714091715861131582) | | |
 |[Bill Ackman,Billionaire](https://en.wikipedia.org/wiki/Bill_Ackman) | [He demands the blacklisting of Palestinian supporters.](https://www.moneycontrol.com/news/trends/these-ceos-want-to-blacklist-harvard-students-who-signed-anti-israel-letter-never-hire-them-11519021.html) | He is supported by<br> ▪ CEO of FabFitFun<br> ▪ CEO of EasyHealth<br> ▪ CEO of Sweetgreen<br> ▪ CEO of Belong<br> | |
 |[Nikki Haley, Politician](https://en.wikipedia.org/wiki/Nikki_Haley) | ▪ Support of war [Support Israel with whatever they need](https://iowacapitaldispatch.com/2023/10/20/nikki-haley-says-she-would-support-israel-strengthen-u-s-military-as-president/) <br> ▪ [We must stand with Israel when it hits back](https://twitter.com/NikkiHaley/status/1717974758241792285)| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
-| | | | |
-| | | | |
+| [Mike Pence, former VP](https://en.wikipedia.org/wiki/Mike_Pence)| ▪ [He calls for american troops be sent to Israel](https://www.joemygod.com/2023/10/pence-send-us-troops-to-rescue-hamass-hostages/) |  ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States))| ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
+| [Ron DeSantis](https://en.wikipedia.org/wiki/Ron_DeSantis) |  ▪ [military equipment to Israel](https://www.theguardian.com/us-news/2023/oct/27/ron-desantis-sending-weapons-israel-military-fake) | ▪ [Republican Party] (https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 | | | | |
 | | | | |
 
