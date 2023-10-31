@@ -26,7 +26,9 @@
 |||||
 |Coca Cola| ▪  [Coca-Cola allowed bottle customization for Israel but declined for Palestine](https://www.brandedgirls.com/brands-that-support-israel/) | [Competitor Pepsi also is tightly connected to Israel ](https://www.brandedgirls.com/brands-that-support-israel/) | No Soda! |
 |||||
-|Oracle| [Supports IDF](https://www.brandedgirls.com/brands-that-support-israel/) | | Postgress, MondoDB |
+|Oracle| ▪ [Supports IDF](https://www.brandedgirls.com/brands-that-support-israel/) | | Postgress, MondoDB |
+|||||
+|Caterpillar| ▪ [Armored bulldozers for IDF](https://unitedwithisrael.org/major-international-companies-support-israel/) | | |
 |||||
 |[Hilary Clinton, former senator](https://en.wikipedia.org/wiki/Hillary_Clinton)|▪ [Called against ceasefire](https://twitter.com/Ramy_Sawma/status/1718968201432740054) | ▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))| ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
 |||||
@@ -74,6 +76,7 @@
 
 ### Additional sources:
 - [15 Brands that Support Israel in 2023](https://www.brandedgirls.com/brands-that-support-israel/)
+- [Which Major International Companies Support Israel?](https://unitedwithisrael.org/major-international-companies-support-israel/)
 - [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
 - [UN Report: HRC 43 71 Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)
 
