@@ -37,7 +37,7 @@
 |||||
 |Forbes| ▪ [Bias in favor of Israel](https://www.brandedgirls.com/brands-that-support-israel/) | | |
 |||||
-|CNN| [Bias in favor of Israel, IDF Support](https://twitter.com/propandco/status/1719371283131945199)|||
+|CNN| ▪ [Bias in favor of Israel, IDF Support](https://twitter.com/propandco/status/1719371283131945199)|||
 |||||
 |[Fox News](https://en.wikipedia.org/wiki/Fox_News)| ▪ [Bias in favor of Israel](https://www.brandedgirls.com/brands-that-support-israel/) <br/> ▪ [Hate speech against Palestinians](https://twitter.com/Neolibtears/status/1716874078588711243)|▪ [News Corp](https://en.wikipedia.org/wiki/News_Corp)| |
 |||||
