@@ -7,6 +7,7 @@
 - Hate speech against Palestinians
 - Prioritizing Israeli interests over the interests of one's own country.
 - Denial of responsibility by Israel for Palestinian civilian casualties.
+- Receiving large donations from [Israeli lobby](https://en.wikipedia.org/wiki/Israel_lobby_in_the_United_States).
 
 ### Will not be included
 - Companies that legally conduct non-military-related business in Israel.
@@ -43,7 +44,8 @@
 |||||
 | [Vivek Ramaswamy, Presedential Candidate](https://en.wikipedia.org/wiki/Vivek_Ramaswamy) | ▪ [I would love nothing more than the IDF to put the heads of the top 100 Hamas leaders on stakes and line them up on the Gaza- Israel border](https://twitter.com/HananyaNaftali/status/1718511787904278734)<br><br> ▪ [Will only cut aid to Israel when Israel tells us](https://www.youtube.com/watch?v=43Uy-KjC3oI)| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 |||||
-| [Mike Johnson,House Speaker](https://en.wikipedia.org/wiki/Mike_Johnson_(Louisiana_politician)) | ▪ [back the war unwaveringly, till the end](https://twitter.com/mtracey/status/1718639998629498929) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
+| [Mike Johnson, House Speaker](https://en.wikipedia.org/wiki/Mike_Johnson_(Louisiana_politician)) | ▪ [back the war unwaveringly, till the end](https://twitter.com/mtracey/status/1718639998629498929) <br><br>
+ ▪ [Johnson vows to move $14.5 billion Israel aid](https://www.cnn.com/2023/10/29/politics/mike-johnson-israel-aid-house/index.html)| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 |||||
 | General Mills | ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| ▪ Cheerios<br>▪ Lucky Charms<br>▪ Blue Buffalo<br>▪ Progresso<br>▪ Green Giant<br>▪ Pillsbury<br>▪ Totino's<br>▪ Nature Valley<br>▪ Fiber One<br> | ▪ Shop at [Aldi](https://www.aldi.com/)|
 |||||
@@ -75,7 +77,8 @@
 |||||
 | [Ron DeSantis](https://en.wikipedia.org/wiki/Ron_DeSantis) | ▪ [military equipment to Israel](https://www.theguardian.com/us-news/2023/oct/27/ron-desantis-sending-weapons-israel-military-fake)<br><br> ▪ [Arranged to send drones, weapons and ammunition to Israel](https://apnews.com/article/desantis-drones-weapons-shipment-israel-gaza-3fedd0b434552bad313f9109379df071) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 |||||
-| | | | |
+|Joe Biden, President |  ▪ [Providing military support for Israel](https://www.npr.org/2023/10/31/1209644555/biden-s-plan-to-send-military-aid-to-israel-has-bipartisan-support-in-the-senate)<br><br> ▪ ['I am a Zionist': How Joe Biden's lifelong bond with Israel shapes war policy](https://www.reuters.com/world/us/i-am-zionist-how-joe-bidens-lifelong-bond-with-israel-shapes-war-policy-2023-10-21/)| | |
+|||||
 | | | | |
 
 ### Additional sources:
