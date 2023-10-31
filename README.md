@@ -32,7 +32,7 @@
 |||||
 |Caterpillar| ▪ [Armored bulldozers for IDF](https://unitedwithisrael.org/major-international-companies-support-israel/) | | |
 |||||
-|[Hilary Clinton, former senator](https://en.wikipedia.org/wiki/Hillary_Clinton)|▪ [Called against ceasefire](https://twitter.com/Ramy_Sawma/status/1718968201432740054) | ▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))| ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
+|[Hilary Clinton, former senator](https://en.wikipedia.org/wiki/Hillary_Clinton)|▪ [Called against ceasefire](https://twitter.com/Ramy_Sawma/status/1718968201432740054)<br><br> ▪ [2 millions in donations from Pro-Israel Lobby](https://www.opensecrets.org/industries/summary.php?ind=Q05&cycle=All&recipdetail=S) | ▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))| ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
 |||||
 |Netflix| ▪ [Bias in favor of Israel](https://www.brandedgirls.com/brands-that-support-israel/) | | |
 |||||
@@ -76,7 +76,7 @@
 |||||
 | [Ron DeSantis](https://en.wikipedia.org/wiki/Ron_DeSantis) | ▪ [military equipment to Israel](https://www.theguardian.com/us-news/2023/oct/27/ron-desantis-sending-weapons-israel-military-fake)<br><br> ▪ [Arranged to send drones, weapons and ammunition to Israel](https://apnews.com/article/desantis-drones-weapons-shipment-israel-gaza-3fedd0b434552bad313f9109379df071) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 |||||
-|Joe Biden, President |  ▪ [Providing military support for Israel](https://www.npr.org/2023/10/31/1209644555/biden-s-plan-to-send-military-aid-to-israel-has-bipartisan-support-in-the-senate)<br><br> ▪ ['I am a Zionist': How Joe Biden's lifelong bond with Israel shapes war policy](https://www.reuters.com/world/us/i-am-zionist-how-joe-bidens-lifelong-bond-with-israel-shapes-war-policy-2023-10-21/)| | |
+|Joe Biden, President |  ▪ [Providing military support for Israel](https://www.npr.org/2023/10/31/1209644555/biden-s-plan-to-send-military-aid-to-israel-has-bipartisan-support-in-the-senate)<br><br> ▪ ['I am a Zionist': How Joe Biden's lifelong bond with Israel shapes war policy](https://www.reuters.com/world/us/i-am-zionist-how-joe-bidens-lifelong-bond-with-israel-shapes-war-policy-2023-10-21/)<br><br> ▪ [4 millions in donations from Pro-Israel Lobby](https://www.opensecrets.org/industries/summary.php?ind=Q05&cycle=All&recipdetail=S)| | |
 |||||
 | | | | |
 
@@ -85,6 +85,7 @@
 - [Which Major International Companies Support Israel?](https://unitedwithisrael.org/major-international-companies-support-israel/)
 - [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
 - [UN Report: HRC 43 71 Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)
+- [Pro-Israel: Money to Congress](https://www.opensecrets.org/industries/summary.php?ind=Q05&cycle=All&recipdetail=S)
 
   
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=boycott4.boycott)
