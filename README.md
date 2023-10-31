@@ -73,9 +73,10 @@
 | | | | |
 
 ### Additional sources:
+- [15 Brands that Support Israel in 2023](https://www.brandedgirls.com/brands-that-support-israel/)
 - [List of Brands That Muslims Are Boycotting](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
 - [UN Report: HRC 43 71 Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)
-- [https://www.brandedgirls.com/brands-that-support-israel/](https://www.brandedgirls.com/brands-that-support-israel/)
+
   
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=boycott4.boycott)
 
