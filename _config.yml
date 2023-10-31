@@ -1,3 +1,12 @@
+title: Boycott
+description: Boycott these entities to help restore peace in Palestine
 remote_theme: pages-themes/hacker@v0.2.0
+repository: boycott4/boycott
+url: https://boycott4.github.io/boycott/
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have on
+- jekyll-feed
+- jekyll-seo-tag
+markdown: kramdown
+kramdown:
+  input: GFM
