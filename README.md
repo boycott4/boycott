@@ -71,7 +71,8 @@
 |||||
 | [Nikki Haley, Politician](https://en.wikipedia.org/wiki/Nikki_Haley) | ▪ Support of war [Support Israel with whatever they need](https://iowacapitaldispatch.com/2023/10/20/nikki-haley-says-she-would-support-israel-strengthen-u-s-military-as-president/) <br><br> ▪ [We must stand with Israel when it hits back](https://twitter.com/NikkiHaley/status/1717974758241792285)| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 |||||
-| [Mike Pence, former VP](https://en.wikipedia.org/wiki/Mike_Pence)| ▪ [Offered american troops to Israel](https://www.joemygod.com/2023/10/pence-send-us-troops-to-rescue-hamass-hostages/) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States))| ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
+| [Mike Pence, former VP](https://en.wikipedia.org/wiki/Mike_Pence)| ▪ [Offered american troops to Israel](https://www.joemygod.com/2023/10/pence-send-us-troops-to-rescue-hamass-hostages/) <br><br><img width="583" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/0033b8fb-62a8-41e3-8b95-025c2170d459">
+| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States))| ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 |||||
 | [Ron DeSantis](https://en.wikipedia.org/wiki/Ron_DeSantis) | ▪ [military equipment to Israel](https://www.theguardian.com/us-news/2023/oct/27/ron-desantis-sending-weapons-israel-military-fake)<br><br> ▪ [Arranged to send drones, weapons and ammunition to Israel](https://apnews.com/article/desantis-drones-weapons-shipment-israel-gaza-3fedd0b434552bad313f9109379df071) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 |||||
