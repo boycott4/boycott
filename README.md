@@ -33,11 +33,12 @@
 |||||
 |[Hilary Clinton, former senator](https://en.wikipedia.org/wiki/Hillary_Clinton)|▪ [Called against ceasefire](https://twitter.com/Ramy_Sawma/status/1718968201432740054) | ▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))| ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
 |||||
-|Netflix| ▪ [Israelly Bias](https://www.brandedgirls.com/brands-that-support-israel/) | | |
+|Netflix| ▪ [Bias in favor of Israel](https://www.brandedgirls.com/brands-that-support-israel/) | | |
 |||||
-|Forbes| ▪ [Israelly Bias](https://www.brandedgirls.com/brands-that-support-israel/) | | |
+|Forbes| ▪ [Bias in favor of Israel](https://www.brandedgirls.com/brands-that-support-israel/) | | |
+|CNN| [Bias in favor of Israel, IDF Support](https://twitter.com/propandco/status/1719371283131945199)|||
 |||||
-|[Fox News](https://en.wikipedia.org/wiki/Fox_News)| ▪ [Israelly Bias](https://www.brandedgirls.com/brands-that-support-israel/) <br/> ▪ [Hate speech against Palestinians](https://twitter.com/Neolibtears/status/1716874078588711243)|▪ [News Corp](https://en.wikipedia.org/wiki/News_Corp)| |
+|[Fox News](https://en.wikipedia.org/wiki/Fox_News)| ▪ [Bias in favor of Israel](https://www.brandedgirls.com/brands-that-support-israel/) <br/> ▪ [Hate speech against Palestinians](https://twitter.com/Neolibtears/status/1716874078588711243)|▪ [News Corp](https://en.wikipedia.org/wiki/News_Corp)| |
 |||||
 | [Vivek Ramaswamy, Presedential Candidate](https://en.wikipedia.org/wiki/Vivek_Ramaswamy) | ▪ [I would love nothing more than the IDF to put the heads of the top 100 Hamas leaders on stakes and line them up on the Gaza- Israel border](https://twitter.com/HananyaNaftali/status/1718511787904278734)<br> ▪ [Will only cut aid to Israel when Israel tells us](https://www.youtube.com/watch?v=43Uy-KjC3oI)| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 | [Mike Johnson,House Speaker](https://en.wikipedia.org/wiki/Mike_Johnson_(Louisiana_politician)) | ▪ [back the war unwaveringly, till the end](https://twitter.com/mtracey/status/1718639998629498929) | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
