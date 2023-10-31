@@ -28,7 +28,7 @@
 |||||
 |Oracle| [Supports IDF](https://www.brandedgirls.com/brands-that-support-israel/) | | Postgress, MondoDB |
 |||||
-|[Hilary Clinton, former senator](https://en.wikipedia.org/wiki/Hillary_Clinton)|▪ [She called against ceasefire(https://twitter.com/Ramy_Sawma/status/1718968201432740054) | ▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))| ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
+|[Hilary Clinton, former senator](https://en.wikipedia.org/wiki/Hillary_Clinton)|▪ [Called against ceasefire](https://twitter.com/Ramy_Sawma/status/1718968201432740054) | ▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))| ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
 |||||
 |Netflix| ▪ [Israelly Bias](https://www.brandedgirls.com/brands-that-support-israel/) | | |
 |||||
