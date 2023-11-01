@@ -3,8 +3,8 @@
 ### Rules of inclusion
 - Support for the Israeli military in any form.
 - Censorship or calls for censorship of pro-Palestinian content or opinions.
-- Engage in illegal activities in the occupied Palestinian territory.
-- Hate speech against Palestinians
+- Engagement in illegal activities in the occupied Palestinian territory.
+- Hate speech against Palestinians.
 - Prioritizing Israeli interests over the interests of one's own country.
 - Denial of responsibility by Israel for Palestinian civilian casualties.
 - Receiving large donations from [Israeli lobby](https://en.wikipedia.org/wiki/Israel_lobby_in_the_United_States).
@@ -15,7 +15,7 @@
   
 | Name | Reason | Known Brands | Alternatives |
 |-----------------|-----------------|-----------------|-----------------|
-| McDonalds  | [McDonald’s Israel (owned by Alonyal Ltd) proivded free meals for Israeli soldiers](https://www.freemalaysiatoday.com/category/business/2023/10/18/free-meals-for-israeli-soldiers-divide-mcdonalds-franchises/) | ▪ McCafé  | ▪ [Five Guys](https://www.fiveguys.com/)<br> ▪ [Wendies](https://www.wendys.com/) |
+| McDonalds  | [McDonald’s Israel (owned by Alonyal Ltd) provided free meals for Israeli soldiers](https://www.freemalaysiatoday.com/category/business/2023/10/18/free-meals-for-israeli-soldiers-divide-mcdonalds-franchises/) | ▪ McCafé  | ▪ [Five Guys](https://www.fiveguys.com/)<br> ▪ [Wendies](https://www.wendys.com/) |
 |||||
 | Starbucks |  ▪ [Suing its union after the 'Solidarity with Palestine!' tweet.](https://theintercept.com/2023/10/17/starbucks-suing-union-israel-palestine/)<br><br> ▪ [Starbucks, Chairman and CEO Howard Schultz, is an active Zionist](https://www.brandedgirls.com/brands-that-support-israel/) | ▪ Teavana | ▪ [Wawa](https://www.wawa.com/) |
 |||||
