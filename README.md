@@ -1,4 +1,4 @@
-# Boycott these entities to help restore peace in Palestine.
+# Boycotting these entities could exert pressure to restore peace in Palestine.
 
 ### Rules of inclusion
 - Support for the Israeli military in any form.
@@ -50,15 +50,7 @@
 |||||
 | General Mills | ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| ▪ Cheerios<br>▪ Lucky Charms<br>▪ Blue Buffalo<br>▪ Progresso<br>▪ Green Giant<br>▪ Pillsbury<br>▪ Totino's<br>▪ Nature Valley<br>▪ Fiber One<br> | ▪ Shop at [Aldi](https://www.aldi.com/)|
 |||||
-| Motorola Solutions | ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)<br/> ▪ [Supports IDF](https://www.brandedgirls.com/brands-that-support-israel/)| | |
-|||||
-| TripAdvisor Inc. | ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| | |
-|||||
-| Expedia Group Inc. | ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx) | | |
-|||||
-| Airbnb Inc. |  ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| | | 
-|||||
-| Booking Holdings |  ▪ [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)|  ▪ Booking.com<br>  ▪ Priceline.com<br>  ▪ Agoda.com<br>  ▪ Kayak.com<br>  ▪ Cheapflights<br>  ▪ Rentalcars.com<br>  ▪ Momondo<br> ▪ OpenTable | | 
+| Motorola Solutions | ▪ Supply of surveillance and identification equipment for settlements, the wall and checkpoints [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)<br/><br/> ▪ [Support of IDF](https://www.brandedgirls.com/brands-that-support-israel/)| | |
 |||||
 | [Lindsey Graham, Senator SC](https://en.wikipedia.org/wiki/Lindsey_Graham) | ▪ [Incitement to genocide. Level the place (Gaza)](https://www.commondreams.org/news/lindsey-graham)<br><br> ▪ [1 million in donations from Pro-Israel Lobby](https://www.opensecrets.org/industries/summary.php?ind=Q05&cycle=All&recipdetail=S) <br><br><img width="542" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/c3878a30-8220-4c1c-9fe8-3290de461b99">
 | ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
