@@ -12,7 +12,8 @@
 ### Will not be included
 - Companies that legally conduct non-military-related business in Israel.
 - Entities supporting Israel without advocating harm to Palestinians or their supporters.
-  
+
+## Legal entities  
 | Name | Reason | Known Brands | Alternatives |
 |-----------------|-----------------|-----------------|-----------------|
 | McDonalds  | [McDonald’s Israel (owned by Alonyal Ltd) provided free meals for Israeli soldiers](https://www.freemalaysiatoday.com/category/business/2023/10/18/free-meals-for-israeli-soldiers-divide-mcdonalds-franchises/) | ▪ McCafé  | ▪ [Five Guys](https://www.fiveguys.com/)<br> ▪ [Wendies](https://www.wendys.com/) |
@@ -32,8 +33,6 @@
 |||||
 |Caterpillar| ▪ [Armored bulldozers for IDF](https://unitedwithisrael.org/major-international-companies-support-israel/) | | |
 |||||
-|[Hilary Clinton, former senator](https://en.wikipedia.org/wiki/Hillary_Clinton)|▪ [Called against ceasefire](https://twitter.com/Ramy_Sawma/status/1718968201432740054)<br><br> ▪ [2 millions in donations from Pro-Israel Lobby](https://www.opensecrets.org/industries/summary.php?ind=Q05&cycle=All&recipdetail=S) | ▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))| ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
-|||||
 |Netflix| ▪ [Bias in favor of Israel](https://www.brandedgirls.com/brands-that-support-israel/) | | |
 |||||
 |Forbes| ▪ [Bias in favor of Israel](https://www.brandedgirls.com/brands-that-support-israel/) | | |
@@ -44,13 +43,20 @@
 |||||
 |[Christians United for Israel](https://en.wikipedia.org/wiki/Christians_United_for_Israel)| ▪ [The largest pro-Israel lobbying group with over 10 million members](https://en.wikipedia.org/wiki/Israel_lobby_in_the_United_States)| ▪ Daughters for Zion<br/><br/> ▪ [Pastor John Hagee](https://en.wikipedia.org/wiki/John_Hagee)<br/><br/> ▪ [Christian Broadcasting Network](https://en.wikipedia.org/wiki/Christian_Broadcasting_Network)||
 |||||
-| [Vivek Ramaswamy, Presedential Candidate](https://en.wikipedia.org/wiki/Vivek_Ramaswamy) | ▪ [I would love nothing more than the IDF to put the heads of the top 100 Hamas leaders on stakes and line them up on the Gaza- Israel border](https://twitter.com/HananyaNaftali/status/1718511787904278734)<br><br> ▪ [Will only cut aid to Israel when Israel tells us](https://www.youtube.com/watch?v=43Uy-KjC3oI)| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
-|||||
-| [Mike Johnson, House Speaker](https://en.wikipedia.org/wiki/Mike_Johnson_(Louisiana_politician)) | ▪ [back the war unwaveringly, till the end](https://twitter.com/mtracey/status/1718639998629498929) <br><br> ▪ [Johnson vows to move $14.5 billion Israel aid](https://www.cnn.com/2023/10/29/politics/mike-johnson-israel-aid-house/index.html)| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
-|||||
 | General Mills | ▪ Use of (Palestinian) natural resources, in particular water and land, for business purposes [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| ▪ Cheerios<br>▪ Lucky Charms<br>▪ Blue Buffalo<br>▪ Progresso<br>▪ Green Giant<br>▪ Pillsbury<br>▪ Totino's<br>▪ Nature Valley<br>▪ Fiber One<br> | ▪ Shop at [Aldi](https://www.aldi.com/)|
 |||||
 | Motorola Solutions | ▪ Supply of surveillance and identification equipment for settlements, the wall and checkpoints [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)<br/><br/> ▪ [Support of IDF](https://www.brandedgirls.com/brands-that-support-israel/)| | |
+|||||
+
+
+## Individuals 
+| Name | Reason | Other  | Alternatives |
+|-----------------|-----------------|-----------------|-----------------|
+|||||
+|[Hilary Clinton, former senator](https://en.wikipedia.org/wiki/Hillary_Clinton)|▪ [Called against ceasefire](https://twitter.com/Ramy_Sawma/status/1718968201432740054)<br><br> ▪ [2 millions in donations from Pro-Israel Lobby](https://www.opensecrets.org/industries/summary.php?ind=Q05&cycle=All&recipdetail=S) | ▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))| ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
+| [Vivek Ramaswamy, Presedential Candidate](https://en.wikipedia.org/wiki/Vivek_Ramaswamy) | ▪ [I would love nothing more than the IDF to put the heads of the top 100 Hamas leaders on stakes and line them up on the Gaza- Israel border](https://twitter.com/HananyaNaftali/status/1718511787904278734)<br><br> ▪ [Will only cut aid to Israel when Israel tells us](https://www.youtube.com/watch?v=43Uy-KjC3oI)| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
+|||||
+| [Mike Johnson, House Speaker](https://en.wikipedia.org/wiki/Mike_Johnson_(Louisiana_politician)) | ▪ [back the war unwaveringly, till the end](https://twitter.com/mtracey/status/1718639998629498929) <br><br> ▪ [Johnson vows to move $14.5 billion Israel aid](https://www.cnn.com/2023/10/29/politics/mike-johnson-israel-aid-house/index.html)| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 |||||
 | [Lindsey Graham, Senator SC](https://en.wikipedia.org/wiki/Lindsey_Graham) | ▪ [Incitement to genocide. Level the place (Gaza)](https://www.commondreams.org/news/lindsey-graham)<br><br> ▪ [1 million in donations from Pro-Israel Lobby](https://www.opensecrets.org/industries/summary.php?ind=Q05&cycle=All&recipdetail=S) <br><br><img width="542" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/c3878a30-8220-4c1c-9fe8-3290de461b99">| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
 |||||
