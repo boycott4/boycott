@@ -14,6 +14,7 @@
 - Entities supporting Israel without advocating harm to Palestinians or their supporters.
 
 ## Corportations  
+
 | Name | Reason | Known Brands | Alternatives |
 |-----------------|-----------------|-----------------|-----------------|
 | McDonalds  | [McDonald’s Israel (owned by Alonyal Ltd) provided free meals for Israeli soldiers](https://www.freemalaysiatoday.com/category/business/2023/10/18/free-meals-for-israeli-soldiers-divide-mcdonalds-franchises/) | ▪ McCafé  | ▪ [Five Guys](https://www.fiveguys.com/)<br> ▪ [Wendies](https://www.wendys.com/) |
@@ -47,16 +48,16 @@
 |||||
 
 ## Non profits  
+
 | Name | Reason | Known Brands | Alternatives |
 |-----------------|-----------------|-----------------|-----------------|
-|||||
 |[Christians United for Israel](https://en.wikipedia.org/wiki/Christians_United_for_Israel)| ▪ [The largest pro-Israel lobbying group with over 10 million members](https://en.wikipedia.org/wiki/Israel_lobby_in_the_United_States)| ▪ Daughters for Zion<br/><br/> ▪ [Pastor John Hagee](https://en.wikipedia.org/wiki/John_Hagee)<br/><br/> ▪ [Christian Broadcasting Network](https://en.wikipedia.org/wiki/Christian_Broadcasting_Network)||
 |||||
 
 ## Individuals 
+
 | Name | Reason | Other  | Alternatives |
 |-----------------|-----------------|-----------------|-----------------|
-|||||
 |[Hilary Clinton, former senator](https://en.wikipedia.org/wiki/Hillary_Clinton)|▪ [Called against ceasefire](https://twitter.com/Ramy_Sawma/status/1718968201432740054)<br><br> ▪ [2 millions in donations from Pro-Israel Lobby](https://www.opensecrets.org/industries/summary.php?ind=Q05&cycle=All&recipdetail=S) | ▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))| ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul)|
 | [Vivek Ramaswamy, Presedential Candidate](https://en.wikipedia.org/wiki/Vivek_Ramaswamy) | ▪ [I would love nothing more than the IDF to put the heads of the top 100 Hamas leaders on stakes and line them up on the Gaza- Israel border](https://twitter.com/HananyaNaftali/status/1718511787904278734)<br><br> ▪ [Will only cut aid to Israel when Israel tells us](https://www.youtube.com/watch?v=43Uy-KjC3oI)| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 |||||
