@@ -1,5 +1,9 @@
 # Boycotting or writing a petition to these entities could exert pressure to restore peace in Palestine.
 
+- [Corportations](#corportations)
+- [Non profits](#nonprofits)
+- [Individuals](#individuals)
+    
 ### Rules of inclusion
 - Support for the Israeli military in any form.
 - Censorship or calls for censorship of pro-Palestinian content or opinions.
