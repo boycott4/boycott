@@ -1,4 +1,4 @@
-# Boycotting these entities could exert pressure to restore peace in Palestine.
+# Boycotting or writing a petition to these entities could exert pressure to restore peace in Palestine.
 
 ### Rules of inclusion
 - Support for the Israeli military in any form.
@@ -42,7 +42,7 @@
 |||||
 |[Fox News](https://en.wikipedia.org/wiki/Fox_News)| ▪ [Bias in favor of Israel](https://www.brandedgirls.com/brands-that-support-israel/) <br/> ▪ [Hate speech against Palestinians](https://twitter.com/Neolibtears/status/1716874078588711243)|▪ [News Corp](https://en.wikipedia.org/wiki/News_Corp)| |
 |||||
-|[Christians United for Israel](https://en.wikipedia.org/wiki/Christians_United_for_Israel)| ▪ [The largest pro-Israel lobbying group with over seven million members](https://en.wikipedia.org/wiki/Israel_lobby_in_the_United_States)|||
+|[Christians United for Israel](https://en.wikipedia.org/wiki/Christians_United_for_Israel)| ▪ [The largest pro-Israel lobbying group with over 10 million members](https://en.wikipedia.org/wiki/Israel_lobby_in_the_United_States)| ▪ Daughters for Zion<br/><br/> ▪ [Pastor John Hagee](https://en.wikipedia.org/wiki/John_Hagee)<br/><br/> ▪ [Christian Broadcasting Network](https://en.wikipedia.org/wiki/Christian_Broadcasting_Network)||
 |||||
 | [Vivek Ramaswamy, Presedential Candidate](https://en.wikipedia.org/wiki/Vivek_Ramaswamy) | ▪ [I would love nothing more than the IDF to put the heads of the top 100 Hamas leaders on stakes and line them up on the Gaza- Israel border](https://twitter.com/HananyaNaftali/status/1718511787904278734)<br><br> ▪ [Will only cut aid to Israel when Israel tells us](https://www.youtube.com/watch?v=43Uy-KjC3oI)| ▪ [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) | ▪ [Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) |
 |||||
