@@ -1,7 +1,7 @@
 # Boycotting or writing a petition to these entities could exert pressure to restore peace in Palestine.
 
 - [Corportations](#corportations)
-- [Non profits](#nonprofits)
+- [Non profits](#non-profits)
 - [Individuals](#individuals)
     
 ### Rules of inclusion
