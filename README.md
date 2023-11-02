@@ -13,7 +13,7 @@
 - Companies that legally conduct non-military-related business in Israel.
 - Entities supporting Israel without advocating harm to Palestinians or their supporters.
 
-## Legal entities  
+## Corportations  
 | Name | Reason | Known Brands | Alternatives |
 |-----------------|-----------------|-----------------|-----------------|
 | McDonalds  | [McDonald’s Israel (owned by Alonyal Ltd) provided free meals for Israeli soldiers](https://www.freemalaysiatoday.com/category/business/2023/10/18/free-meals-for-israeli-soldiers-divide-mcdonalds-franchises/) | ▪ McCafé  | ▪ [Five Guys](https://www.fiveguys.com/)<br> ▪ [Wendies](https://www.wendys.com/) |
@@ -41,13 +41,17 @@
 |||||
 |[Fox News](https://en.wikipedia.org/wiki/Fox_News)| ▪ [Bias in favor of Israel](https://www.brandedgirls.com/brands-that-support-israel/) <br/> ▪ [Hate speech against Palestinians](https://twitter.com/Neolibtears/status/1716874078588711243)|▪ [News Corp](https://en.wikipedia.org/wiki/News_Corp)| |
 |||||
-|[Christians United for Israel](https://en.wikipedia.org/wiki/Christians_United_for_Israel)| ▪ [The largest pro-Israel lobbying group with over 10 million members](https://en.wikipedia.org/wiki/Israel_lobby_in_the_United_States)| ▪ Daughters for Zion<br/><br/> ▪ [Pastor John Hagee](https://en.wikipedia.org/wiki/John_Hagee)<br/><br/> ▪ [Christian Broadcasting Network](https://en.wikipedia.org/wiki/Christian_Broadcasting_Network)||
-|||||
 | General Mills | ▪ Use of (Palestinian) natural resources, in particular water and land, for business purposes [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| ▪ Cheerios<br>▪ Lucky Charms<br>▪ Blue Buffalo<br>▪ Progresso<br>▪ Green Giant<br>▪ Pillsbury<br>▪ Totino's<br>▪ Nature Valley<br>▪ Fiber One<br> | ▪ Shop at [Aldi](https://www.aldi.com/)|
 |||||
 | Motorola Solutions | ▪ Supply of surveillance and identification equipment for settlements, the wall and checkpoints [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)<br/><br/> ▪ [Support of IDF](https://www.brandedgirls.com/brands-that-support-israel/)| | |
 |||||
 
+## Non profits  
+| Name | Reason | Known Brands | Alternatives |
+|-----------------|-----------------|-----------------|-----------------|
+|||||
+|[Christians United for Israel](https://en.wikipedia.org/wiki/Christians_United_for_Israel)| ▪ [The largest pro-Israel lobbying group with over 10 million members](https://en.wikipedia.org/wiki/Israel_lobby_in_the_United_States)| ▪ Daughters for Zion<br/><br/> ▪ [Pastor John Hagee](https://en.wikipedia.org/wiki/John_Hagee)<br/><br/> ▪ [Christian Broadcasting Network](https://en.wikipedia.org/wiki/Christian_Broadcasting_Network)||
+|||||
 
 ## Individuals 
 | Name | Reason | Other  | Alternatives |
