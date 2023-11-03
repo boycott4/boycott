@@ -61,7 +61,9 @@
             <b-form-group label="Date:" label-for="date">
                 <b-form-input type="date" id="date" v-model="date" required></b-form-input>
             </b-form-group>
-
+            <b-form-group label="Recipient's Title:" label-for="recipientTitle">
+                <b-form-input id="recipientTitle" v-model="recipientTitle" required></b-form-input>
+            </b-form-group>
             <b-form-group label="Recipient's Name:" label-for="recipientName">
                 <b-form-input id="recipientName" v-model="recipientName" required></b-form-input>
             </b-form-group>
@@ -105,7 +107,7 @@
                           {{ email }}<br>
                           {{ phoneNumber }}<br>
                           <br>
-                          <b>To: {{ recipientName }}</b><br>
+                          <b>To: {{recipientTitle}} {{ recipientName }}</b><br>
                           {{ recipientAddress }}<br>
                           {{ recipientCityStateZip }}<br>
                         </div>
@@ -114,7 +116,7 @@
         </p>
 
         <p>
-            Dear {{ recipientName }},
+            Dear {{recipientTitle}} {{ recipientName }},
         </p>
 <p>      
 I hope this letter finds you well. I am writing to express my deep concern and distress regarding the ongoing conflict and humanitarian crisis in Palestine, particularly in Gaza, and the actions taken by Israel in the region.
