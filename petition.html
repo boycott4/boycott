@@ -16,7 +16,7 @@
         href="https://cdn.jsdelivr.net/npm/bootstrap-vue/dist/bootstrap-vue.min.css"
     />
 </head>
-<body style="margin-left:auto;margin-right:auto; border:1px solid black; width:80%">
+<body style="margin-left:auto;margin-right:auto; border:1px solid black; width:80%;padding:2rem;">
     <div id="app">
       <b-form @submit.prevent="submitForm">
             <b-form-group label="Your Name:" label-for="yourName">
@@ -56,7 +56,7 @@
             </b-form-group>
           </b-form>
         <!-- Your Vue.js app content goes here -->
-        <div style="width=60%; border=1px solid black; background-color:light gray;">
+        <div style="width=60%; border=1px solid black; background-color:light gray;padding:2rem;">
         
         <p>
             {{ yourName }}<br>
@@ -112,7 +112,7 @@ Thank you for your attention to this critical issue. I look forward to hearing a
                 cityStateZip: '',
                 email: '',
                 phoneNumber: '',
-                date: '',
+                date: new Date().toISOString().slice(0, 10),,
                 recipientName: '',
                 recipientTitle: '',
                 recipientOffice: '',
