@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vue.js Standalone Template</title>
+</head>
+<body>
+    <div id="app">
+        <form @submit.prevent="submitForm">
+            <label for="yourName">Your Name:</label>
+            <input type="text" id="yourName" v-model="yourName" required>
+            <br>
+            <label for="yourAddress">Your Address:</label>
+            <input type="text" id="yourAddress" v-model="yourAddress" required>
+            <br>
+            <label for="cityStateZip">City, State, ZIP Code:</label>
+            <input type="text" id="cityStateZip" v-model="cityStateZip" required>
+            <br>
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" v-model="email" required>
+            <br>
+            <label for="phoneNumber">Phone Number:</label>
+            <input type="tel" id="phoneNumber" v-model="phoneNumber" required>
+            <br>
+            <label for="date">Date:</label>
+            <input type="date" id="date" v-model="date" required>
+            <br>
+            <label for="recipientName">Recipient's Name:</label>
+            <input type="text" id="recipientName" v-model="recipientName" required>
+            <br>
+            <label for="recipientTitle">Recipient's Title:</label>
+            <input type="text" id="recipientTitle" v-model="recipientTitle" required>
+            <br>
+            <label for="recipientOffice">Recipient's Office:</label>
+            <input type="text" id="recipientOffice" v-model="recipientOffice" required>
+            <br>
+            <label for="recipientAddress">Recipient's Address:</label>
+            <input type="text" id="recipientAddress" v-model="recipientAddress" required>
+            <br>
+            <label for="recipientCityStateZip">City, State, ZIP Code:</label>
+            <input type="text" id="recipientCityStateZip" v-model="recipientCityStateZip" required>
+            <br>
+            <button type="submit">Submit</button>
+        </form>
+
+      
+         <button @click="changeMessage">Apply changes</button>
+        <!-- Your Vue.js app content goes here -->
+        <div>
+        <p>
+            {{ yourName }}<br>
+            {{ yourAddress }}<br>
+            {{ cityStateZip }}<br>
+            {{ email }}<br>
+            {{ phoneNumber }}<br>
+            {{ date }}<br>
+            {{ recipientTitle }}<br>
+            {{ recipientOffice }}<br>
+            {{ recipientAddress }}<br>
+            {{ recipientCityStateZip }}<br>
+        </p>
+
+        <p>
+            Dear {{ recipientName }},
+        </p>
+          
+I hope this letter finds you well. I am writing to express my deep concern and distress regarding the ongoing conflict and humanitarian crisis in Palestine, particularly in Gaza, and the actions taken by Israel in the region.
+
+As a concerned citizen, I firmly believe in the importance of peace, justice, and human rights for all individuals and communities. The situation in Gaza has led to the loss of innocent lives, extensive destruction, and a significant humanitarian crisis. It is heartbreaking to witness the suffering of civilians, including children, who are caught in the midst of this conflict.
+
+I kindly request that you use your influence and voice to advocate for a peaceful resolution to the conflict and to encourage a ceasefire immediately. Furthermore, I urge you to support efforts aimed at addressing the root causes of this ongoing crisis and to ensure the protection of human rights and the well-being of all individuals affected.
+
+I understand that the situation is complex, and there are multiple perspectives involved. However, it is my hope that the international community, including our government, can play a constructive role in promoting dialogue, diplomacy, and humanitarian aid to alleviate the suffering of those affected by this conflict.
+
+I believe that standing up for justice, peace, and the rights of all individuals, regardless of their nationality or background, is a fundamental value that we share. Your leadership in addressing this crisis would be greatly appreciated by your constituents and would contribute to a more peaceful and just world.
+
+Please cosponsor H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine.
+
+Thank you for your attention to this critical issue. I look forward to hearing about your efforts to support peace and stability in the region. Please know that I will continue to follow this issue closely and advocate for a peaceful resolution.
+
+Sincerely,
+        </div>
+       
+    </div>
+
+    <!-- Include Vue.js from a CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+
+    <script>
+        new Vue({
+            el: '#app',
+            data: {
+            
+            },
+            methods: {
+                submitForm() {
+                  
+                }
+            }
+        });
+    </script>
+</body>
+</html>
