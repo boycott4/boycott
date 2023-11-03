@@ -88,7 +88,7 @@
 |||||
 |Joe Biden, President |  ▪ [Providing military support for Israel](https://www.npr.org/2023/10/31/1209644555/biden-s-plan-to-send-military-aid-to-israel-has-bipartisan-support-in-the-senate)<br><br> ▪ ['I am a Zionist': How Joe Biden's lifelong bond with Israel shapes war policy](https://www.reuters.com/world/us/i-am-zionist-how-joe-bidens-lifelong-bond-with-israel-shapes-war-policy-2023-10-21/)<br><br> ▪ [4 millions in donations from Pro-Israel Lobby](https://www.opensecrets.org/industries/summary.php?ind=Q05&cycle=All&recipdetail=S)| | |
 |||||
-|[Doug Murray,political commentator](https://en.wikipedia.org/wiki/Douglas_Murray_(author)) | <img width="589" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/70f1ea10-d8bc-48f9-901b-5d46b5aad560"><br><br>![image](https://github.com/boycott4/boycott/assets/149330045/c66980d6-a785-4c33-b568-b7850a57aa9f)<br><br><img width="566" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/3ffcf130-306c-45c0-8bab-bae51be5bd25">|||
+|[Doug Murray,political commentator]![image](https://github.com/boycott4/boycott/assets/149330045/c66980d6-a785-4c33-b568-b7850a57aa9f)<br><br><img width="566" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/3ffcf130-306c-45c0-8bab-bae51be5bd25">|||
 |||||
 | | | | |
 
