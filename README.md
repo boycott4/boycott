@@ -105,19 +105,31 @@
 
 >
 >[Your Name]
+>
 >[Your Address]
+>
 >[City, State, ZIP Code]
+>
 >[Email Address]
+>
 >[Phone Number]
+>
 >[Date]
 >
+>
+>
 >[Recipient's Name]
+>
 >[Recipient's Title]
+>
 >[Recipient's Office]
+>
 >[Address]
+>
 >[City, State, ZIP Code]
 >
 >Dear [Recipient's Name],
+>
 >
 >I hope this letter finds you well. I am writing to express my deep concern and distress regarding the ongoing conflict and humanitarian crisis in Palestine, particularly in Gaza, and the actions taken by Israel in the region.
 >
