@@ -127,6 +127,8 @@ I understand that the situation is complex, and there are multiple perspectives 
 
 I believe that standing up for justice, peace, and the rights of all individuals, regardless of their nationality or background, is a fundamental value that we share. Your leadership in addressing this crisis would be greatly appreciated by your constituents and would contribute to a more peaceful and just world.
 
+Please cosponsor H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine.
+
 Thank you for your attention to this critical issue. I look forward to hearing about your efforts to support peace and stability in the region. Please know that I will continue to follow this issue closely and advocate for a peaceful resolution.
 
 Sincerely,
