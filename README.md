@@ -98,6 +98,9 @@
 - [Pro-Israel: Money to Congress](https://www.opensecrets.org/industries/summary.php?ind=Q05&cycle=All&recipdetail=S)
 
 ### Template to write a petition to your representative
+
+* [H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine.](https://www.govtrack.us/congress/bills/118/hres786/comment)
+
 ```
 [Your Name]
 [Your Address]
