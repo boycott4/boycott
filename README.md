@@ -96,6 +96,38 @@
 - [UN Report: HRC 43 71 Enterprises involved in activities to Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)
 - [Pro-Israel: Money to Congress](https://www.opensecrets.org/industries/summary.php?ind=Q05&cycle=All&recipdetail=S)
 
+### Template to write a petition to your representative
+```
+[Your Name]
+[Your Address]
+[City, State, ZIP Code]
+[Email Address]
+[Phone Number]
+[Date]
+
+[Recipient's Name]
+[Recipient's Title]
+[Recipient's Office]
+[Address]
+[City, State, ZIP Code]
+
+Dear [Recipient's Name],
+
+I hope this letter finds you well. I am writing to express my deep concern and distress regarding the ongoing conflict and humanitarian crisis in Palestine, particularly in Gaza, and the actions taken by Israel in the region.
+
+As a concerned citizen, I firmly believe in the importance of peace, justice, and human rights for all individuals and communities. The situation in Gaza has led to the loss of innocent lives, extensive destruction, and a significant humanitarian crisis. It is heartbreaking to witness the suffering of civilians, including children, who are caught in the midst of this conflict.
+
+I kindly request that you use your influence and voice to advocate for a peaceful resolution to the conflict and to encourage a ceasefire immediately. Furthermore, I urge you to support efforts aimed at addressing the root causes of this ongoing crisis and to ensure the protection of human rights and the well-being of all individuals affected.
+
+I understand that the situation is complex, and there are multiple perspectives involved. However, it is my hope that the international community, including our government, can play a constructive role in promoting dialogue, diplomacy, and humanitarian aid to alleviate the suffering of those affected by this conflict.
+
+I believe that standing up for justice, peace, and the rights of all individuals, regardless of their nationality or background, is a fundamental value that we share. Your leadership in addressing this crisis would be greatly appreciated by your constituents and would contribute to a more peaceful and just world.
+
+Thank you for your attention to this critical issue. I look forward to hearing about your efforts to support peace and stability in the region. Please know that I will continue to follow this issue closely and advocate for a peaceful resolution.
+
+Sincerely,
+
+```  
   
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=boycott4.boycott)
 
