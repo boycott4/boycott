@@ -5,21 +5,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>H.Res. 786 Petition</title>
-        <link
-        type="text/css"
-        rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css"
+ <!-- Required Stylesheets -->
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="https://unpkg.com/bootstrap/dist/css/bootstrap.min.css"
     />
     <link
-        type="text/css"
-        rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/bootstrap-vue/dist/bootstrap-vue.min.css"
+      type="text/css"
+      rel="stylesheet"
+      href="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css"
     />
+
+    <!-- Load polyfills to support older browsers -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es2015%2CIntersectionObserver"></script>
+
+    <!-- Required scripts -->
+    <script src="https://unpkg.com/vue@latest/dist/vue.js"></script>
+    <script src="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.js"></script
 </head>
 <body style="margin-left:auto;margin-right:auto; border:1px solid black; width:80%;padding:2rem;">
 
 
     <div id="app">
+              <b-container>
       <b-form @submit.prevent="submitForm">
             <b-form-group label="Your Name:" label-for="yourName">
                 <b-form-input id="yourName" v-model="yourName" required></b-form-input>
@@ -100,20 +109,13 @@ Thank you for your attention to this critical issue. I look forward to hearing a
                 Sincerely,
 {{ recipientName }}
         </div>
+                        </b-container>
     </div>
-
-        <!-- Include Vue.js from a CDN -->
-    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
-    
-    <!-- Include BootstrapVue JS from a CDN -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap-vue@2.21.2/dist/bootstrap-vue.min.js"></script>
-
-
- 
     <script>
         new Vue({
             el: '#app',
             data: {
+                 name: '',
                 yourName: '',
                 yourAddress: '',
                 cityStateZip: '',
