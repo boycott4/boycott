@@ -1,8 +1,9 @@
-# Boycotting or writing a petition to these entities could exert pressure to restore peace in Palestine.
+# Boycotting or writing a [petition](#template-to-write-a-petition-to-your-representative) to these entities could exert pressure to restore peace in Palestine.
 
 - [Corportations](#corportations)
 - [Non profits](#non-profits)
 - [Individuals](#individuals)
+- Template of petition(#template-to-write-a-petition-to-your-representative)
     
 ### Rules of inclusion
 - Support for the Israeli military in any form.
