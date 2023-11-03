@@ -16,7 +16,7 @@
         href="https://cdn.jsdelivr.net/npm/bootstrap-vue/dist/bootstrap-vue.min.css"
     />
 </head>
-<body>
+<body style="margin-left:auto;margin-right:auto; border:1px solid black; width:80%">
     <div id="app">
       <b-form @submit.prevent="submitForm">
             <b-form-group label="Your Name:" label-for="yourName">
@@ -56,7 +56,8 @@
             </b-form-group>
           </b-form>
         <!-- Your Vue.js app content goes here -->
-        <div>
+        <div style="width=60%">
+            <b-panel>
         <p>
             {{ yourName }}<br>
             {{ yourAddress }}<br>
@@ -97,7 +98,7 @@ Thank you for your attention to this critical issue. I look forward to hearing a
                 Sincerely,
 {{ recipientName }}
         </div>
-       
+       </b-panel>
     </div>
 
     <!-- Include Vue.js from a CDN -->
@@ -107,7 +108,17 @@ Thank you for your attention to this critical issue. I look forward to hearing a
         new Vue({
             el: '#app',
             data: {
-            
+                yourName: '',
+                yourAddress: '',
+                cityStateZip: '',
+                email: '',
+                phoneNumber: '',
+                date: '',
+                recipientName: '',
+                recipientTitle: '',
+                recipientOffice: '',
+                recipientAddress: '',
+                recipientCityStateZip: ''
             },
             methods: {
                 submitForm() {
