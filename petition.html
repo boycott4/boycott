@@ -16,7 +16,11 @@
       rel="stylesheet"
       href="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css"
     />
-
+<style>
+.custom-button {
+  width: 150px; /* Adjust the width as needed */
+}
+</style>
     <!-- Load polyfills to support older browsers -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es2015%2CIntersectionObserver"></script>
 
@@ -73,10 +77,19 @@
                 <b-form-input id="recipientCityStateZip" v-model="recipientCityStateZip" required></b-form-input>
             </b-form-group>
           </b-form>
-                              <br/>     <br/>
-              <b-button @click="redirectToFindRepresentative" variant="primary">Find Your Representative</b-button>
+  
 
-              <b-button @click="printPetition" variant="primary">Print Petition</b-button>
+<template>
+  <div style="margin-top: 2rem">
+    <b-button @click="redirectToFindRepresentative" variant="primary" class="custom-button">
+      Find Your Representative
+    </b-button>
+
+    <b-button @click="printPetition" variant="primary" class="custom-button">
+      Print Petition
+    </b-button>
+  </div>
+</template>
         
         <!-- Your Vue.js app content goes here -->
         <div  style="margin-top: 2rem; width=60%; border=1px solid black; background-color:gray; padding:2rem;">
@@ -151,7 +164,7 @@ Thank you for your attention to this critical issue. I look forward to hearing a
                   const findRepresentativeURL = `https://pluralpolicy.com/find-your-legislator/?address==${addressEncoded}`;
             
                   // Redirect the user to the external site
-                  window.location.href = findRepresentativeURL;
+                  window.open(findRepresentativeURL, '_blank');
                 },
                 printPetition() {
                     const petitionElement = document.getElementById('petition');
