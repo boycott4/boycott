@@ -74,8 +74,12 @@
             </b-form-group>
           </b-form>
         <!-- Your Vue.js app content goes here -->
-        <div id="petition" style="width=60%; border=1px solid black; background-color:gray; padding:2rem;">
-        <b-card >
+        <div  style="width=60%; border=1px solid black; background-color:gray; padding:2rem;">
+            <br/>
+              <b-button @click="printPetition">Print Petition</button>
+            <br/>
+        <b-card id="petition">
+            
           <div style="text-align: right;">
               From: {{ yourName }}<br>
               {{ yourAddress }}<br>
@@ -142,6 +146,18 @@ Thank you for your attention to this critical issue. I look forward to hearing a
             methods: {
                 submitForm() {
                   
+                },
+                printPetition() {
+                    const petitionElement = document.getElementById('petition');
+                    const printWindow = window.open('', '', 'width=600,height=600');
+                    printWindow.document.open();
+                    printWindow.document.write('<html><head><title>Print Petition</title></head><body>');
+                    printWindow.document.write('<h1>Petition Content</h1>');
+                    printWindow.document.write(petitionElement.innerHTML);
+                    printWindow.document.write('</body></html>');
+                    printWindow.document.close();
+                    printWindow.print();
+                    printWindow.close();
                 }
             }
         });
