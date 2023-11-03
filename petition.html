@@ -79,18 +79,23 @@
               <b-button @click="printPetition">Print Petition</button>
             <br/>
         <b-card id="petition">
-            
-          <div style="text-align: right;">
-              From: {{ yourName }}<br>
+         <b-row>   
+             <b-col col=8>
+                 </b-col>
+                <b-col>
+          <div style="text-align: left;">
+              <b>From: {{ yourName }}</b><br>
               {{ yourAddress }}<br>
               {{ cityStateZip }}<br>
               {{ email }}<br>
               {{ phoneNumber }}<br>
               <br>
-              To: {{ recipientName }}<br>
+              </b>To: {{ recipientName }}</b><br>
               {{ recipientAddress }}<br>
               {{ recipientCityStateZip }}<br>
             </div>
+                    </b-col>
+              </b-row>
         </p>
 
         <p>
