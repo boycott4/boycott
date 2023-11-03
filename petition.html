@@ -74,7 +74,8 @@
             </b-form-group>
           </b-form>
                               <br/>     <br/>
-            
+              <b-button @click="redirectToFindRepresentative" variant="primary">Find Your Representative</b-button>
+
               <b-button @click="printPetition">Print Petition</b-button>
         
         <!-- Your Vue.js app content goes here -->
@@ -91,7 +92,7 @@
                           {{ email }}<br>
                           {{ phoneNumber }}<br>
                           <br>
-                          </b>To: {{ recipientName }}</b><br>
+                          <b>To: {{ recipientName }}</b><br>
                           {{ recipientAddress }}<br>
                           {{ recipientCityStateZip }}<br>
                         </div>
@@ -142,6 +143,15 @@ Thank you for your attention to this critical issue. I look forward to hearing a
             methods: {
                 submitForm() {
                   
+                },
+                
+                redirectToFindRepresentative() {
+                  // Construct the URL for finding the representative using the address
+                  const addressEncoded = encodeURIComponent(this.yourAddress+', '+this.cityStateZip);
+                  const findRepresentativeURL = `https://pluralpolicy.com/find-your-legislator/?address==${addressEncoded}`;
+            
+                  // Redirect the user to the external site
+                  window.location.href = findRepresentativeURL;
                 },
                 printPetition() {
                     const petitionElement = document.getElementById('petition');
