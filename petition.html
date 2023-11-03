@@ -1,48 +1,60 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>H.Res. 786 Petition</title>
+        <link
+        type="text/css"
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css"
+    />
+    <link
+        type="text/css"
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap-vue/dist/bootstrap-vue.min.css"
+    />
 </head>
 <body>
     <div id="app">
-        <form @submit.prevent="submitForm">
-            <label for="yourName">Your Name:</label>
-            <input type="text" id="yourName" v-model="yourName" required>
-            <br>
-            <label for="yourAddress">Your Address:</label>
-            <input type="text" id="yourAddress" v-model="yourAddress" required>
-            <br>
-            <label for="cityStateZip">City, State, ZIP Code:</label>
-            <input type="text" id="cityStateZip" v-model="cityStateZip" required>
-            <br>
-            <label for="email">Email Address:</label>
-            <input type="email" id="email" v-model="email" required>
-            <br>
-            <label for="phoneNumber">Phone Number:</label>
-            <input type="tel" id="phoneNumber" v-model="phoneNumber" required>
-            <br>
-            <label for="date">Date:</label>
-            <input type="date" id="date" v-model="date" required>
-            <br>
-            <label for="recipientName">Recipient's Name:</label>
-            <input type="text" id="recipientName" v-model="recipientName" required>
-            <br>
-            <label for="recipientTitle">Recipient's Title:</label>
-            <input type="text" id="recipientTitle" v-model="recipientTitle" required>
-            <br>
-            <label for="recipientOffice">Recipient's Office:</label>
-            <input type="text" id="recipientOffice" v-model="recipientOffice" required>
-            <br>
-            <label for="recipientAddress">Recipient's Address:</label>
-            <input type="text" id="recipientAddress" v-model="recipientAddress" required>
-            <br>
-            <label for="recipientCityStateZip">City, State, ZIP Code:</label>
-            <input type="text" id="recipientCityStateZip" v-model="recipientCityStateZip" required>
-            <br>
-            <button type="submit">Submit</button>
-        </form>
+      <b-form @submit.prevent="submitForm">
+            <b-form-group label="Your Name:" label-for="yourName">
+                <b-form-input id="yourName" v-model="yourName" required></b-form-input>
+            </b-form-group>
+
+            <b-form-group label="Your Address:" label-for="yourAddress">
+                <b-form-input id="yourAddress" v-model="yourAddress" required></b-form-input>
+            </b-form-group>
+
+            <b-form-group label="City, State, ZIP Code:" label-for="cityStateZip">
+                <b-form-input id="cityStateZip" v-model="cityStateZip" required></b-form-input>
+            </b-form-group>
+
+            <b-form-group label="Email Address:" label-for="email">
+                <b-form-input id="email" v-model="email" required></b-form-input>
+            </b-form-group>
+
+            <b-form-group label="Phone Number:" label-for="phoneNumber">
+                <b-form-input id="phoneNumber" v-model="phoneNumber" required></b-form-input>
+            </b-form-group>
+
+            <b-form-group label="Date:" label-for="date">
+                <b-form-input type="date" id="date" v-model="date" required></b-form-input>
+            </b-form-group>
+
+            <b-form-group label="Recipient's Name:" label-for="recipientName">
+                <b-form-input id="recipientName" v-model="recipientName" required></b-form-input>
+            </b-form-group>
+
+            <b-form-group label="Recipient's Address:" label-for="recipientAddress">
+                <b-form-input id="recipientAddress" v-model="recipientAddress" required></b-form-input>
+            </b-form-group>
+
+            <b-form-group label="City, State, ZIP Code:" label-for="recipientCityStateZip">
+                <b-form-input id="recipientCityStateZip" v-model="recipientCityStateZip" required></b-form-input>
+            </b-form-group>
+          </b-form>
         <!-- Your Vue.js app content goes here -->
         <div>
         <p>
@@ -52,8 +64,6 @@
             {{ email }}<br>
             {{ phoneNumber }}<br>
             {{ date }}<br>
-            {{ recipientTitle }}<br>
-            {{ recipientOffice }}<br>
             {{ recipientAddress }}<br>
             {{ recipientCityStateZip }}<br>
         </p>
