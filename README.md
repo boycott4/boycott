@@ -3,7 +3,7 @@
 - [Corportations](#corportations)
 - [Non profits](#non-profits)
 - [Individuals](#individuals)
-- Template of petition(#template-to-write-a-petition-to-your-representative)
+- [Template of petition](#template-to-write-a-petition-to-your-representative)
     
 ### Rules of inclusion
 - Support for the Israeli military in any form.
