@@ -41,7 +41,8 @@
     <div id="app">
               <b-container>
     <hr>
-    <b-card>
+    
+    <b-card img-src="https://www.govtrack.us/static/legislator-photos/456829-200px.jpeg"  class="mb-2 mt-2">
         <a href="">Cori Bush</a>, Sponsor. Representative for Missouri's 1st congressional district. Democrat.
         <a href="https://www.govinfo.gov/content/pkg/BILLS-118hres786ih/pdf/BILLS-118hres786ih.pdf">Read Text</a> 
         Last Updated: Oct 25, 2023
@@ -49,7 +50,9 @@
         Introduced
         Oct 16, 2023
         118th Congress (2023–2025)
+        <a href="https://www.govtrack.us/congress/bills/118/hres786/cosponsors">cosponsors</a>
     </b-card>
+
       <b-form @submit.prevent="submitForm">
             <b-form-group label="Your Name:" label-for="yourName">
                 <b-form-input id="yourName" v-model="yourName" required></b-form-input>
@@ -75,9 +78,15 @@
                 <b-form-input type="date" id="date" v-model="date" required></b-form-input>
             </b-form-group>
 
+            <template>
+                <center>
+              <div style="margin-top: 2rem;margin-left:auto;margin-right:auto;">
             <b-button @click="redirectToFindRepresentative" variant="primary" class="custom-button">
                 <b-icon-search></b-icon-search>&nbsp;Find Your Representative
             </b-button>
+            </div>
+            </center>
+            </template>
 
             <b-form-group label="Recipient's Title:" label-for="recipientTitle">
                 <b-form-input id="recipientTitle" v-model="recipientTitle" required></b-form-input>
