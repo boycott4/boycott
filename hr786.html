@@ -17,6 +17,12 @@
       href="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css"
     />
     <style>
+      body {
+        font-family: Arial, sans-serif; /* Choose your desired font-family */
+        background-color: white; /* White background color */
+        color: black; /* Black font color */
+        font-size: 16px; /* Adjust font size as needed */
+      }
       .bc-button {
         width: 10rem;
         margin: 0.2rem;
@@ -37,7 +43,7 @@
     <!-- Include BootstrapVue JS from a CDN -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap-vue@2.21.2/dist/bootstrap-vue.min.js"></script>
 
-    <script src="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue-icons.min.js"></script>
+    <script src="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue-icons.min.js"></script>
   </head>
   <body
     style="
@@ -49,11 +55,11 @@
       padding: 2rem;
     "
   >
-    <h3>Petition to cosponsor H.Res. 786</h3>
-    <h4>
+    <h3 id="main_header">Petition to cosponsor H.Res. 786</h3>
+    <div class="mt2 mb-2" id="main_description">
       Calling for an immediate deescalation and cease-fire in Israel and
       occupied Palestine.
-    </h4>
+    </div>
     <div id="app">
       <b-container>
         <hr />
@@ -417,36 +423,34 @@
               return
             }
             const opt = {
-              margin: 1,
+              margin: 10,
               filename: 'petition_hr786.pdf',
-              html2canvas: { scale: 1 },
+              html2canvas: { scale: 2 },
               jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
               image: { type: 'jpeg', quality: 0.98 }
             }
 
             // Use html2pdf to generate the PDF
-            html2pdf()
-              .from(element.innerHTML)
-              .set(opt)
-              .outputPdf()
-              .then(pdf => {
-                console.log(`saving petition pdf`)
-                // Create a blob from the PDF data
-                const blob = new Blob([pdf], { type: 'application/pdf' })
+            html2pdf().from(element).set(opt).outputPdf().save()
 
-                // Create a download link
-                const url = window.URL.createObjectURL(blob)
-                const a = document.createElement('a')
-                a.style.display = 'none'
-                a.href = url
-                a.download = opt.filename
+            // .then(pdf => {
+            //   console.log(`saving petition pdf ${pdf.length}`)
+            //   // Create a blob from the PDF data
+            //   const blob = new Blob([pdf], { type: 'application/pdf' })
 
-                // Trigger a click event on the link to open the "Save File" dialog
-                document.body.appendChild(a)
-                a.click()
-                window.URL.revokeObjectURL(url)
-                document.body.removeChild(a)
-              })
+            //   // Create a download link
+            //   const url = window.URL.createObjectURL(blob)
+            //   const a = document.createElement('a')
+            //   a.style.display = 'none'
+            //   a.href = url
+            //   a.download = opt.filename
+
+            //   // Trigger a click event on the link to open the "Save File" dialog
+            //   document.body.appendChild(a)
+            //   a.click()
+            //   window.URL.revokeObjectURL(url)
+            //   document.body.removeChild(a)
+            // })
           }
         }
       })
