@@ -90,6 +90,8 @@
 |||||
 |[Doug Murray,political commentator](https://en.wikipedia.org/wiki/Douglas_Murray_(author))|![image](https://github.com/boycott4/boycott/assets/149330045/c66980d6-a785-4c33-b568-b7850a57aa9f)<br><br><img width="566" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/3ffcf130-306c-45c0-8bab-bae51be5bd25">|||
 |||||
+|[Bernie Sanders, senator VT](https://en.wikipedia.org/wiki/Bernie_Sanders)||▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))||
+|||||
 | | | | |
 
 ### Additional sources:
