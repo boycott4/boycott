@@ -131,45 +131,45 @@
  
         <b-card id="petition">
             <div id="contentToConvert">
-         <b-row>   
-             <b-col sm=1 lg=8>&nbsp;</b-col>
-             <b-col>
-                      <div style="text-align: left;">
-                          <b>From: {{ yourName }}</b><br>
-                          {{ yourAddress }}<br>
-                          {{ cityStateZip }}<br>
-                          {{ email }}<br>
-                          {{ phoneNumber }}<br>
-                          <br>
-                          <b>To: {{recipientTitle}} {{ recipientName }}</b><br>
-                          {{ recipientAddress }}<br>
-                          {{ recipientCityStateZip }}<br>
-                        </div>
-                </b-col>
-              </b-row>
+                <b-row>   
+                    <b-col sm=1 lg=8>&nbsp;</b-col>
+                    <b-col>
+                            <div style="text-align: left;">
+                                <b>From: {{ yourName }}</b><br>
+                                {{ yourAddress }}<br>
+                                {{ cityStateZip }}<br>
+                                {{ email }}<br>
+                                {{ phoneNumber }}<br>
+                                <br>
+                                <b>To: {{recipientTitle}} {{ recipientName }}</b><br>
+                                {{ recipientAddress }}<br>
+                                {{ recipientCityStateZip }}<br>
+                                </div>
+                        </b-col>
+                    </b-row>
         </p>
 
         <p>
             Dear {{recipientTitle}} {{ recipientName }},
         </p>
-<p>      
-I hope this letter finds you well. I am writing to express my deep concern and distress regarding the ongoing conflict and humanitarian crisis in Palestine, particularly in Gaza, and the actions taken by Israel in the region.
-<p/>
-<p>
-As a concerned citizen, I firmly believe in the importance of peace, justice, and human rights for all individuals and communities. The situation in Gaza has led to the loss of innocent lives, extensive destruction, and a significant humanitarian crisis. It is heartbreaking to witness the suffering of civilians, including children, who are caught in the midst of this conflict. 
-            <p>
-Please cosponsor H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine.
-<p/>
-    <p>
-Thank you for your attention to this critical issue. I look forward to hearing about your efforts to support peace and stability in the region. Please know that I will continue to follow this issue closely and advocate for a peaceful resolution.
+                <p>      
+                I hope this letter finds you well. I am writing to express my deep concern and distress regarding the ongoing conflict and humanitarian crisis in Palestine, particularly in Gaza, and the actions taken by Israel in the region.
+                <p/>
+                <p>
+                As a concerned citizen, I firmly believe in the importance of peace, justice, and human rights for all individuals and communities. The situation in Gaza has led to the loss of innocent lives, extensive destruction, and a significant humanitarian crisis. It is heartbreaking to witness the suffering of civilians, including children, who are caught in the midst of this conflict. 
+                            <p>
+                Please cosponsor H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine.
+                <p/>
+                    <p>
+                Thank you for your attention to this critical issue. I look forward to hearing about your efforts to support peace and stability in the region. Please know that I will continue to follow this issue closely and advocate for a peaceful resolution.
 
-            <p/>
-<p>
-                Sincerely, {{ yourName }}<br/>
-    {{ date }}
-    
-        </div>
-    </div>
+                            <p/>
+                <p>
+                                Sincerely, {{ yourName }}<br/>
+                    {{ date }}
+                    
+                        </div>
+                    </div>
               </b-card>
 
               <b-card class="mt-3 mb-2 p-1">
@@ -263,6 +263,10 @@ Thank you for your attention to this critical issue. I look forward to hearing a
                 },
                 async generatePDF() {
                             const element = document.getElementById('contentToConvert'); 
+                            if (!element){
+                                console.error(`element not found`)
+                                return;
+                            }
                             const opt = {
                                 margin: 10,
                                 filename: 'hr786.pdf',
