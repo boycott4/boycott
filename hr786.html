@@ -114,7 +114,7 @@
     <center>
   <div style="margin-top: 2rem;margin-left:auto;margin-right:auto;">
 
-    <b-button @click="generatePDF" variant="secondary" class="bc-button">
+    <b-button @click="generatePDF" variant="outline-primary" class="bc-button">
         <b-icon-file-pdf></b-icon-file-pdf>&nbsp;Save as PDF
     </b-button>
 
@@ -263,7 +263,7 @@ Thank you for your attention to this critical issue. I look forward to hearing a
                             const element = document.getElementById('petition'); // Replace with the ID of your <div>
                             const opt = {
                                 margin: 10,
-                                filename: 'your_document.pdf',
+                                filename: 'hr786.pdf',
                                 image: { type: 'jpeg', quality: 0.98 },
                                 html2canvas: { scale: 2 },
                                 jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
