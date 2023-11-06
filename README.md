@@ -92,7 +92,7 @@
 |||||
 |[Bernie Sanders, senator VT](https://en.wikipedia.org/wiki/Bernie_Sanders)| ▪ Speaking against cease fire <img width="610" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/7b63fe8e-f7b2-483c-93d3-c5453002ee2d"> [link](https://twitter.com/MaxBlumenthal/status/1721203245643629011) |▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))||
 |||||
-|[Ryan Zinke, former Trump Interior Secretary, Republican](https://en.wikipedia.org/wiki/Ryan_Zinke) | [Prosecution for Palestinians](https://twitter.com/SawyerHackett/status/1720559009495650759) <img width="1014" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/3a75ed94-0f46-4df8-bc4a-02c1e99f00f1">| Cosponsors: ▪ Rep. Andy Harris (R-MD)<br>▪ Rep. Aaron Bean (R-FL)<br>▪ Rep. Ralph Norman (R-SC)<br>▪ Rep. Scott DesJarlais (R-TN)<br>▪ Rep. Clay Higgins (R-LA)<br>▪ Ronny Jackson (R-TX)<br>▪ Bill Posey (R-FL)<br>▪  Barry Moore (R-AL)<br>▪ <font color="red">Marjorie Taylor Greene (R-GA)<br>▪ Andy Biggs (R-AZ)| |
+|[Ryan Zinke, former Trump Interior Secretary, Republican](https://en.wikipedia.org/wiki/Ryan_Zinke) | [Prosecution for Palestinians](https://twitter.com/SawyerHackett/status/1720559009495650759) <img width="1014" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/3a75ed94-0f46-4df8-bc4a-02c1e99f00f1">| Cosponsors: ▪ Rep. Andy Harris (R-MD)<br>▪ Rep. Aaron Bean (R-FL)<br>▪ Rep. Ralph Norman (R-SC)<br>▪ Rep. Scott DesJarlais (R-TN)<br>▪ Rep. Clay Higgins (R-LA)<br>▪ Ronny Jackson (R-TX)<br>▪ Bill Posey (R-FL)<br>▪  Barry Moore (R-AL)<br>▪ <font color="red">Marjorie Taylor Greene (R-GA)</font><br>▪ Andy Biggs (R-AZ)| |
 |||||
 | | | | |
 
