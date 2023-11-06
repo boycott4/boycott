@@ -51,6 +51,11 @@
         <a href="https://www.govtrack.us/congress/bills/118/hres786/cosponsors">Cosponsors</a></p>
     </b-card>
 
+    <b-card
+    header="Complete and print this form, then forward it to your representative."
+    title="Form"
+  >
+
       <b-form @submit.prevent="submitForm">
             <b-form-group label="Your Name:" label-for="yourName">
                 <b-form-input id="yourName" v-model="yourName" required></b-form-input>
@@ -101,7 +106,7 @@
                 <b-form-input id="recipientCityStateZip" v-model="recipientCityStateZip" required></b-form-input>
             </b-form-group>
           </b-form>
-  
+    </b-card>
 
 <template>
     <center>
