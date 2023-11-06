@@ -272,11 +272,12 @@
                                 filename: 'hr786.pdf',
                                 html2canvas: { scale: 2 },
                                 jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
+                                image: { type: 'jpeg', quality: 0.98 },
                             };
 
                             // Use html2pdf to generate the PDF
-                            const pdf = await html2pdf().from(element).set(opt).outputPdf();
-
+                            html2pdf().from(element).set(opt).outputPdf().then(pdf=>{
+                            console.log(`saving pdf`)
                             // Create a blob from the PDF data
                             const blob = new Blob([pdf], { type: 'application/pdf' });
 
@@ -292,6 +293,7 @@
                             a.click();
                             window.URL.revokeObjectURL(url);
                             document.body.removeChild(a);
+                            });
                 },
             }
         });
