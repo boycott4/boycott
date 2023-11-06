@@ -216,8 +216,8 @@
             </div>
           </center>
         </template>
-        <template>
-          <b-card id="petition" style="color:black;background-color: lightblue;">
+        <template id="petition">
+          <b-card style="color:black;background-color: white;">
             <b-row>
               <b-col sm="1" lg="8">&nbsp;</b-col>
               <b-col>
@@ -236,14 +236,16 @@
                 </div>
               </b-col>
             </b-row>
+            <b-row>
+                <b-col cols="12">
+            <p>Dear {{ recipientTitle }} {{ recipientName }},<br/>
 
-            <p>Dear {{ recipientTitle }} {{ recipientName }},</p>
             <p>
               I hope this letter finds you well. I am writing to express my deep
               concern and distress regarding the ongoing conflict and
               humanitarian crisis in Palestine, particularly in Gaza, and the
               actions taken by Israel in the region.
-            </p>
+          
 
             <p>
               As a concerned citizen, I firmly believe in the importance of
@@ -252,24 +254,25 @@
               lives, extensive destruction, and a significant humanitarian
               crisis. It is heartbreaking to witness the suffering of civilians,
               including children, who are caught in the midst of this conflict.
-            </p>
+          
 
             <p>
               Please cosponsor H.Res. 786: Calling for an immediate deescalation
               and cease-fire in Israel and occupied Palestine.
-            </p>
+            
 
-            <p id="thankyou" style="color:black">
+            <p >
               Thank you for your attention to this critical issue. I look
               forward to hearing about your efforts to support peace and
               stability in the region. Please know that I will continue to
               follow this issue closely and advocate for a peaceful resolution.
-            </p>
+          
 
             <p>
               Sincerely, {{ yourName }}<br />
               {{ date }}
-            </p>
+            </b-col>
+            </b-row>
             </b-card>
         </template>
         <b-card class="mt-3 mb-2 p-1">
