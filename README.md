@@ -1,4 +1,4 @@
-# Boycotting or writing a [petition](#template-to-write-a-petition-to-your-representative) to these entities could exert pressure to restore peace in Palestine.
+# Boycotting or writing a [petition](hr787.html) to these entities could exert pressure to restore peace in Palestine.
 
 - [Corportations](#corportations)
 - [Non profits](#non-profits)
