@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>H.Res. 786 Petition</title>
- <!-- Required Stylesheets -->
+    <!-- Required Stylesheets -->
     <link
       type="text/css"
       rel="stylesheet"
@@ -16,282 +16,430 @@
       rel="stylesheet"
       href="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css"
     />
-<style>
-
-.bc-button {
-  width: 10rem; 
-  margin: 0.2rem;
-}
-</style>
+    <style>
+      .bc-button {
+        width: 10rem;
+        margin: 0.2rem;
+      }
+    </style>
     <!-- Load polyfills to support older browsers -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es2015%2CIntersectionObserver"></script>
 
     <!-- Include Vue.js from a CDN -->
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
-    
+
     <!-- Include BootstrapVue JS from a CDN -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap-vue@2.21.2/dist/bootstrap-vue.min.js"></script>
 
     <script src="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue-icons.min.js"></script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-</head>
-<body style="margin-left:auto;margin-right:auto;margin-top:2rem; border:1px solid black; width:80%;padding:2rem;">
-
-    <h3>Petition to cosponsor H.Res. 786</h3> 
-    <h4>Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine.</h4>
-    <div id="app">
-              <b-container>
-    <hr>
-    
-    <b-card img-src="https://www.govtrack.us/static/legislator-photos/456829-200px.jpeg"  class="mb-2 mt-2" img-left >
-        <a href="">Cori Bush</a>, Sponsor. Representative for Missouri's 1st congressional district. Democrat.<br/>
-        <a href="https://www.govinfo.gov/content/pkg/BILLS-118hres786ih/pdf/BILLS-118hres786ih.pdf">Read Text (Length: 2 pages)</a><br/>
-        Introduced Oct 16, 2023<br/>
-        Last Updated: Oct 25, 2023<br/>
-        118th Congress (2023–2025)<br/>
-        <a href="https://www.govtrack.us/congress/bills/118/hres786/cosponsors">Cosponsors</a></p>
-    </b-card>
-
-    <b-card
-    header="Complete and print this form, then forward it to your representative."
-    title="Form"
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"
+      integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+  </head>
+  <body
+    style="
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 2rem;
+      border: 1px solid black;
+      width: 80%;
+      padding: 2rem;
+    "
   >
+    <h3>Petition to cosponsor H.Res. 786</h3>
+    <h4>
+      Calling for an immediate deescalation and cease-fire in Israel and
+      occupied Palestine.
+    </h4>
+    <div id="app">
+      <b-container>
+        <hr />
 
-      <b-form @submit.prevent="submitForm">
+        <b-card
+          img-src="https://www.govtrack.us/static/legislator-photos/456829-200px.jpeg"
+          class="mb-2 mt-2"
+          img-left
+        >
+          <a href="">Cori Bush</a>, Sponsor. Representative for Missouri's 1st
+          congressional district. Democrat.<br />
+          <a
+            href="https://www.govinfo.gov/content/pkg/BILLS-118hres786ih/pdf/BILLS-118hres786ih.pdf"
+            >Read Text (Length: 2 pages)</a
+          ><br />
+          Introduced Oct 16, 2023<br />
+          Last Updated: Oct 25, 2023<br />
+          118th Congress (2023–2025)<br />
+          <a
+            href="https://www.govtrack.us/congress/bills/118/hres786/cosponsors"
+            >Cosponsors</a
+          >
+        </b-card>
+
+        <b-card
+          header="Complete and print this form, then forward it to your representative."
+          title="Form"
+        >
+          <b-form @submit.prevent="submitForm">
             <b-form-group label="Your Name:" label-for="yourName">
-                <b-form-input id="yourName" v-model="yourName" required></b-form-input>
+              <b-form-input
+                id="yourName"
+                v-model="yourName"
+                required
+              ></b-form-input>
             </b-form-group>
 
             <b-form-group label="Your Address:" label-for="yourAddress">
-                <b-form-input id="yourAddress" v-model="yourAddress" required></b-form-input>
+              <b-form-input
+                id="yourAddress"
+                v-model="yourAddress"
+                required
+              ></b-form-input>
             </b-form-group>
 
-            <b-form-group label="City, State, ZIP Code:" label-for="cityStateZip">
-                <b-form-input id="cityStateZip" v-model="cityStateZip" required></b-form-input>
+            <b-form-group
+              label="City, State, ZIP Code:"
+              label-for="cityStateZip"
+            >
+              <b-form-input
+                id="cityStateZip"
+                v-model="cityStateZip"
+                required
+              ></b-form-input>
             </b-form-group>
 
             <b-form-group label="Email Address:" label-for="email">
-                <b-form-input id="email" v-model="email" required></b-form-input>
+              <b-form-input id="email" v-model="email" required></b-form-input>
             </b-form-group>
 
             <b-form-group label="Phone Number:" label-for="phoneNumber">
-                <b-form-input id="phoneNumber" v-model="phoneNumber" required></b-form-input>
+              <b-form-input
+                id="phoneNumber"
+                v-model="phoneNumber"
+                required
+              ></b-form-input>
             </b-form-group>
 
             <b-form-group label="Date:" label-for="date">
-                <b-form-input type="date" id="date" v-model="date" required></b-form-input>
+              <b-form-input
+                type="date"
+                id="date"
+                v-model="date"
+                required
+              ></b-form-input>
             </b-form-group>
 
             <template>
-                <center>
-              <div style="margin-top: 2rem;margin-left:auto;margin-right:auto;">
-            <b-button @click="redirectToFindRepresentative" variant="primary" class="custom-button">
-                <b-icon-search></b-icon-search>&nbsp;Find Your Representative
-            </b-button>
-            </div>
-            </center>
+              <center>
+                <div
+                  style="
+                    margin-top: 2rem;
+                    margin-left: auto;
+                    margin-right: auto;
+                  "
+                >
+                  <b-button
+                    @click="redirectToFindRepresentative"
+                    variant="primary"
+                    class="custom-button"
+                  >
+                    <b-icon-search></b-icon-search>&nbsp;Find Your
+                    Representative
+                  </b-button>
+                </div>
+              </center>
             </template>
 
             <b-form-group label="Recipient's Title:" label-for="recipientTitle">
-                <b-form-input id="recipientTitle" v-model="recipientTitle" required></b-form-input>
+              <b-form-input
+                id="recipientTitle"
+                v-model="recipientTitle"
+                required
+              ></b-form-input>
             </b-form-group>
             <b-form-group label="Recipient's Name:" label-for="recipientName">
-                <b-form-input id="recipientName" v-model="recipientName" required></b-form-input>
+              <b-form-input
+                id="recipientName"
+                v-model="recipientName"
+                required
+              ></b-form-input>
             </b-form-group>
 
-            <b-form-group label="Recipient's Address:" label-for="recipientAddress">
-                <b-form-input id="recipientAddress" v-model="recipientAddress" required></b-form-input>
+            <b-form-group
+              label="Recipient's Address:"
+              label-for="recipientAddress"
+            >
+              <b-form-input
+                id="recipientAddress"
+                v-model="recipientAddress"
+                required
+              ></b-form-input>
             </b-form-group>
 
-            <b-form-group label="City, State, ZIP Code:" label-for="recipientCityStateZip">
-                <b-form-input id="recipientCityStateZip" v-model="recipientCityStateZip" required></b-form-input>
+            <b-form-group
+              label="City, State, ZIP Code:"
+              label-for="recipientCityStateZip"
+            >
+              <b-form-input
+                id="recipientCityStateZip"
+                v-model="recipientCityStateZip"
+                required
+              ></b-form-input>
             </b-form-group>
           </b-form>
-    </b-card>
+        </b-card>
 
-<template>
-    <center>
-  <div style="margin-top: 2rem;margin-left:auto;margin-right:auto;">
+        <template>
+          <center>
+            <div
+              style="margin-top: 2rem; margin-left: auto; margin-right: auto"
+            >
+              <b-button
+                @click="generatePDF"
+                variant="outline-primary"
+                class="bc-button"
+              >
+                <b-icon-file-pdf></b-icon-file-pdf>&nbsp;Save as PDF
+              </b-button>
 
-    <b-button @click="generatePDF" variant="outline-primary" class="bc-button">
-        <b-icon-file-pdf></b-icon-file-pdf>&nbsp;Save as PDF
-    </b-button>
+              <b-button
+                @click="printPetition"
+                variant="outline-primary"
+                class="bc-button"
+              >
+                <b-icon-printer></b-icon-printer>&nbsp;Print Petition
+              </b-button>
+            </div>
+          </center>
+        </template>
+        <template>
+          <b-card id="petition">
+            <b-row>
+              <b-col sm="1" lg="8">&nbsp;</b-col>
+              <b-col>
+                <div style="text-align: left">
+                  <b>From: {{ yourName }}</b
+                  ><br />
+                  {{ yourAddress }}<br />
+                  {{ cityStateZip }}<br />
+                  {{ email }}<br />
+                  {{ phoneNumber }}<br />
+                  <br />
+                  <b>To: {{ recipientTitle }} {{ recipientName }}</b
+                  ><br />
+                  {{ recipientAddress }}<br />
+                  {{ recipientCityStateZip }}<br />
+                </div>
+              </b-col>
+            </b-row>
 
-    <b-button @click="printPetition" variant="outline-primary" class="bc-button">
-      <b-icon-printer></b-icon-printer>&nbsp;Print Petition
-    </b-button>
-      
-  </div>
-        </center>
-</template>
-            <template>
-            <b-card id="petition">
-                            <b-row>   
-                                <b-col sm=1 lg=8>&nbsp;</b-col>
-                                <b-col>
-                                        <div style="text-align: left;">
-                                            <b>From: {{ yourName }}</b><br>
-                                            {{ yourAddress }}<br>
-                                            {{ cityStateZip }}<br>
-                                            {{ email }}<br>
-                                            {{ phoneNumber }}<br>
-                                            <br>
-                                            <b>To: {{recipientTitle}} {{ recipientName }}</b><br>
-                                            {{ recipientAddress }}<br>
-                                            {{ recipientCityStateZip }}<br>
-                                            </div>
-                                    </b-col>
-                                </b-row>
-                    </p>
+            <p>Dear {{ recipientTitle }} {{ recipientName }},</p>
+            <p>
+              I hope this letter finds you well. I am writing to express my deep
+              concern and distress regarding the ongoing conflict and
+              humanitarian crisis in Palestine, particularly in Gaza, and the
+              actions taken by Israel in the region.
+            </p>
 
-                    <p>
-                        Dear {{recipientTitle}} {{ recipientName }},
-                    </p>
-                            <p>      
-                            I hope this letter finds you well. I am writing to express my deep concern and distress regarding the ongoing conflict and humanitarian crisis in Palestine, particularly in Gaza, and the actions taken by Israel in the region.
-                            <p/>
-                            <p>
-                            As a concerned citizen, I firmly believe in the importance of peace, justice, and human rights for all individuals and communities. The situation in Gaza has led to the loss of innocent lives, extensive destruction, and a significant humanitarian crisis. It is heartbreaking to witness the suffering of civilians, including children, who are caught in the midst of this conflict. 
-                                        <p>
-                            Please cosponsor H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine.
-                            <p/>
-                                <p>
-                            Thank you for your attention to this critical issue. I look forward to hearing about your efforts to support peace and stability in the region. Please know that I will continue to follow this issue closely and advocate for a peaceful resolution.
+            <p>
+              As a concerned citizen, I firmly believe in the importance of
+              peace, justice, and human rights for all individuals and
+              communities. The situation in Gaza has led to the loss of innocent
+              lives, extensive destruction, and a significant humanitarian
+              crisis. It is heartbreaking to witness the suffering of civilians,
+              including children, who are caught in the midst of this conflict.
+            </p>
 
-                                        <p/>
-                            <p>
-                                            Sincerely, {{ yourName }}<br/>
-                                {{ date }}
-                  
-              </b-card>
-            </template>
-              <b-card class="mt-3 mb-2 p-1">
-              <b-row>
-                <b-col>
-                    <a href="https://twitter.com/intent/tweet?text=Petition%20to%20cosponsor%20HRes%20786%20Calling%20for%20an%20immediate%20deescalation%20and%20cease-fire%20in%20Israel%20and%20occupied%20Palestine%20https%3A%2F%2Fboycott4.github.io%2Fboycott%2Fhr786.html%20" target="_blank" rel="noopener noreferrer">
-                        <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2Fhr786.html&text=Petition%20to%20cosponsor%20HRes%20786%20Calling%20for%20an%20immediate%20deescalation%20and%20cease-fire%20in%20Israel%20and%20occupied%20Palestine" alt="Share on Twitter">
-                      </a>
-                </b-col>
-     
-                    <b-col>
-                      <!-- Share on Viber -->
-                      <a href="viber://forward?text=Petition%20to%20cosponsor%20HRes%20786%20Calling%20for%20an%20immediate%20deescalation%20and%20cease-fire%20in%20Israel%20and%20occupied%20Palestine%20https%3A%2F%2Fboycott4.github.io%2Fboycott%2Fhr786.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-                        <img src="https://img.shields.io/badge/Share-Viber?color=purple&label=Viber&labelColor=purple&logo=Viber" alt="Share on Viber">
-                      </a>
-                    </b-col>
-                  
-                    <b-col>
-                      <!-- Share on Telegram -->
-                      <a href="https://telegram.me/share/url?url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2Fhr786.html&text=Petition%20to%20cosponsor%20HRes%20786%20Calling%20for%20an%20immediate%20deescalation%20and%20cease-fire%20in%20Israel%20and%20occupied%20Palestine" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-                        <img src="https://img.shields.io/badge/Share-Telegram?logo=telegram&color=blue&label=Telegram&labelColor=white" alt="Share on Telegram">
-                      </a>
-                    </b-col>
-                  
-                    <b-col>
-                      <!-- Share on Gab -->
-                      <a href="https://gab.com/share?url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2Fhr786.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-                        <img src="https://img.shields.io/badge/Share-Gab?color=green&label=Gab&labelColor=white" alt="Share on Gab">
-                      </a>
-                    </b-col>
-                  
-                    <b-col>
-                      <!-- Share via Email -->
-                      <a href="mailto:?subject=HR%20786%20Cease%20Fire&body=Petition%20to%20cosponsor%20HRes%20786%20Calling%20for%20an%20immediate%20deescalation%20and%20cease-fire%20in%20Israel%20and%20occupied%20Palestine:%20https%3A%2F%2Fboycott4.github.io%2Fboycott%2Fhr786.html" style="text-decoration: none;">
-                        <img src="https://img.shields.io/badge/Share-Email?color=blue&label=email&labelColor=white&logo=mailbox" alt="Share via Email">
-                      </a>
-                    </b-col>
-          
-                  
-              </b-row>
-              <b-row>
-                <b-col class="mt-2" cols="12">
-                    <div class="text-center">
-                        <img src="https://visitor-badge.laobi.icu/badge?page_id=boycott4.boycott.hr786" alt="Visitor Counter"/>
-                    </div>
-                </b-col>
-              </b-row>
-            </b-card>
-        </b-container>
+            <p>
+              Please cosponsor H.Res. 786: Calling for an immediate deescalation
+              and cease-fire in Israel and occupied Palestine.
+            </p>
+
+            <p>
+              Thank you for your attention to this critical issue. I look
+              forward to hearing about your efforts to support peace and
+              stability in the region. Please know that I will continue to
+              follow this issue closely and advocate for a peaceful resolution.
+            </p>
+
+            <p>
+              Sincerely, {{ yourName }}<br />
+              {{ date }}
+            </p></b-card
+          >
+        </template>
+        <b-card class="mt-3 mb-2 p-1">
+          <b-row>
+            <b-col>
+              <a
+                href="https://twitter.com/intent/tweet?text=Petition%20to%20cosponsor%20HRes%20786%20Calling%20for%20an%20immediate%20deescalation%20and%20cease-fire%20in%20Israel%20and%20occupied%20Palestine%20https%3A%2F%2Fboycott4.github.io%2Fboycott%2Fhr786.html%20"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2Fhr786.html&text=Petition%20to%20cosponsor%20HRes%20786%20Calling%20for%20an%20immediate%20deescalation%20and%20cease-fire%20in%20Israel%20and%20occupied%20Palestine"
+                  alt="Share on Twitter"
+                />
+              </a>
+            </b-col>
+
+            <b-col>
+              <!-- Share on Viber -->
+              <a
+                href="viber://forward?text=Petition%20to%20cosponsor%20HRes%20786%20Calling%20for%20an%20immediate%20deescalation%20and%20cease-fire%20in%20Israel%20and%20occupied%20Palestine%20https%3A%2F%2Fboycott4.github.io%2Fboycott%2Fhr786.html"
+                target="_blank"
+                rel="noopener noreferrer"
+                style="text-decoration: none"
+              >
+                <img
+                  src="https://img.shields.io/badge/Share-Viber?color=purple&label=Viber&labelColor=purple&logo=Viber"
+                  alt="Share on Viber"
+                />
+              </a>
+            </b-col>
+
+            <b-col>
+              <!-- Share on Telegram -->
+              <a
+                href="https://telegram.me/share/url?url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2Fhr786.html&text=Petition%20to%20cosponsor%20HRes%20786%20Calling%20for%20an%20immediate%20deescalation%20and%20cease-fire%20in%20Israel%20and%20occupied%20Palestine"
+                target="_blank"
+                rel="noopener noreferrer"
+                style="text-decoration: none"
+              >
+                <img
+                  src="https://img.shields.io/badge/Share-Telegram?logo=telegram&color=blue&label=Telegram&labelColor=white"
+                  alt="Share on Telegram"
+                />
+              </a>
+            </b-col>
+
+            <b-col>
+              <!-- Share on Gab -->
+              <a
+                href="https://gab.com/share?url=https%3A%2F%2Fboycott4.github.io%2Fboycott%2Fhr786.html"
+                target="_blank"
+                rel="noopener noreferrer"
+                style="text-decoration: none"
+              >
+                <img
+                  src="https://img.shields.io/badge/Share-Gab?color=green&label=Gab&labelColor=white"
+                  alt="Share on Gab"
+                />
+              </a>
+            </b-col>
+
+            <b-col>
+              <!-- Share via Email -->
+              <a
+                href="mailto:?subject=HR%20786%20Cease%20Fire&body=Petition%20to%20cosponsor%20HRes%20786%20Calling%20for%20an%20immediate%20deescalation%20and%20cease-fire%20in%20Israel%20and%20occupied%20Palestine:%20https%3A%2F%2Fboycott4.github.io%2Fboycott%2Fhr786.html"
+                style="text-decoration: none"
+              >
+                <img
+                  src="https://img.shields.io/badge/Share-Email?color=blue&label=email&labelColor=white&logo=mailbox"
+                  alt="Share via Email"
+                />
+              </a>
+            </b-col>
+          </b-row>
+          <b-row>
+            <b-col class="mt-2" cols="12">
+              <div class="text-center">
+                <img
+                  src="https://visitor-badge.laobi.icu/badge?page_id=boycott4.boycott.hr786"
+                  alt="Visitor Counter"
+                />
+              </div>
+            </b-col>
+          </b-row>
+        </b-card>
+      </b-container>
     </div>
     <script>
-         window.app = new Vue({
-            el: '#app',
-            data: {
-                 name: '',
-                yourName: '',
-                yourAddress: '',
-                cityStateZip: '',
-                email: '',
-                phoneNumber: '',
-                date: new Date().toISOString().slice(0, 10),
-                recipientName: '',
-                recipientTitle: '',
-                recipientOffice: '',
-                recipientAddress: '',
-                recipientCityStateZip: ''
-            },
-            methods: {
-                submitForm() {
-                  
-                },
-                
-                redirectToFindRepresentative() {
-                  // Construct the URL for finding the representative using the address
-                  const addressEncoded = encodeURIComponent(this.yourAddress+', '+this.cityStateZip);
-                  const findRepresentativeURL = `https://pluralpolicy.com/find-your-legislator/?address==${addressEncoded}`;
-            
-                  // Redirect the user to the external site
-                  window.open(findRepresentativeURL, '_blank');
-                },
-                printPetition() {
-                    const petitionElement = document.getElementById('petition');
-                    const printWindow = window.open('', '', 'width=600,height=600');
-                    printWindow.document.open();
-                    printWindow.document.write('<html><head><title>Print Petition</title></head><body>');
-                    printWindow.document.write(petitionElement.innerHTML);
-                    printWindow.document.write('</body></html>');
-                    printWindow.document.close();
-                    printWindow.print();
-                    printWindow.close();
-                },
-                async generatePDF() {
-                            const element = document.getElementById('petition'); 
-                            if (!element){
-                                console.error(`element not found`)
-                                return;
-                            }
-                            const opt = {
-                                margin: 10,
-                                filename: 'hr786.pdf',
-                                html2canvas: { scale: 2 },
-                                jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
-                                image: { type: 'jpeg', quality: 0.98 },
-                            };
+      window.app = new Vue({
+        el: '#app',
+        data: {
+          name: '',
+          yourName: '',
+          yourAddress: '',
+          cityStateZip: '',
+          email: '',
+          phoneNumber: '',
+          date: new Date().toISOString().slice(0, 10),
+          recipientName: '',
+          recipientTitle: '',
+          recipientOffice: '',
+          recipientAddress: '',
+          recipientCityStateZip: ''
+        },
+        methods: {
+          submitForm() {},
 
-                            // Use html2pdf to generate the PDF
-                            html2pdf().from(element).set(opt).outputPdf().then(pdf=>{
-                                console.log(`saving pdf`)
-                                // Create a blob from the PDF data
-                                const blob = new Blob([pdf], { type: 'application/pdf' });
+          redirectToFindRepresentative() {
+            // Construct the URL for finding the representative using the address
+            const addressEncoded = encodeURIComponent(
+              this.yourAddress + ', ' + this.cityStateZip
+            )
+            const findRepresentativeURL = `https://pluralpolicy.com/find-your-legislator/?address==${addressEncoded}`
 
-                                // Create a download link
-                                const url = window.URL.createObjectURL(blob);
-                                const a = document.createElement('a');
-                                a.style.display = 'none';
-                                a.href = url;
-                                a.download = opt.filename;
-
-                                // Trigger a click event on the link to open the "Save File" dialog
-                                document.body.appendChild(a);
-                                a.click();
-                                window.URL.revokeObjectURL(url);
-                                document.body.removeChild(a);
-                            });
-                },
+            // Redirect the user to the external site
+            window.open(findRepresentativeURL, '_blank')
+          },
+          printPetition() {
+            const petitionElement = document.getElementById('petition')
+            const printWindow = window.open('', '', 'width=600,height=600')
+            printWindow.document.open()
+            printWindow.document.write(
+              '<html><head><title>Print Petition</title></head><body>'
+            )
+            printWindow.document.write(petitionElement.innerHTML)
+            printWindow.document.write('</body></html>')
+            printWindow.document.close()
+            printWindow.print()
+            printWindow.close()
+          },
+          async generatePDF() {
+            const element = document.getElementById('petition')
+            if (!element) {
+              console.error(`element not found`)
+              return
             }
-        });
+            const opt = {
+              margin: 10,
+              filename: 'hr786.pdf',
+              html2canvas: { scale: 2 },
+              jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
+              image: { type: 'jpeg', quality: 0.98 }
+            }
+
+            // Use html2pdf to generate the PDF
+            html2pdf()
+              .from(element)
+              .set(opt)
+              .outputPdf()
+              .then(pdf => {
+                console.log(`saving pdf`)
+                // Create a blob from the PDF data
+                const blob = new Blob([pdf], { type: 'application/pdf' })
+
+                // Create a download link
+                const url = window.URL.createObjectURL(blob)
+                const a = document.createElement('a')
+                a.style.display = 'none'
+                a.href = url
+                a.download = opt.filename
+
+                // Trigger a click event on the link to open the "Save File" dialog
+                document.body.appendChild(a)
+                a.click()
+                window.URL.revokeObjectURL(url)
+                document.body.removeChild(a)
+              })
+          }
+        }
+      })
     </script>
-</body>
+  </body>
 </html>
