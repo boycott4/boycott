@@ -33,6 +33,9 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap-vue@2.21.2/dist/bootstrap-vue.min.js"></script>
 
     <script src="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue-icons.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.0/html2pdf.bundle.min.js"></script>
+
 </head>
 <body style="margin-left:auto;margin-right:auto;margin-top:2rem; border:1px solid black; width:80%;padding:2rem;">
 
@@ -112,7 +115,9 @@
     <center>
   <div style="margin-top: 2rem;margin-left:auto;margin-right:auto;">
 
-
+    <b-button @click="generatePDF" variant="secondary" class="bc-button">
+        <b-icon-file></b-icon-file>&nbsp;Save as PDF
+      </b-button>
     <b-button @click="printPetition" variant="primary" class="bc-button">
       <b-icon-printer></b-icon-printer>&nbsp;Print Petition
     </b-button>
@@ -253,7 +258,23 @@ Thank you for your attention to this critical issue. I look forward to hearing a
                     printWindow.document.close();
                     printWindow.print();
                     printWindow.close();
-                }
+                },
+                generatePDF() {
+                    const element = document.getElementById('petition'); /
+                    const opt = {
+                    margin: 10,
+                    filename: 'your_document.pdf',
+                    image: { type: 'jpeg', quality: 0.98 },
+                    html2canvas: { scale: 2 },
+                    jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
+                    };
+
+                    // Use html2pdf to generate the PDF
+                    html2pdf()
+                    .from(element)
+                    .set(opt)
+                    .outputPdf();
+                },
             }
         });
     </script>
