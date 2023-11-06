@@ -103,7 +103,7 @@
 
 * [H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine.](https://www.govtrack.us/congress/bills/118/hres786/comment)
 
-[Fill and print petition for your representative to cosponsor H.Res. 786](petition.html)
+[Fill and print petition for your representative to cosponsor H.Res. 786](hr786.html)
   
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=boycott4.boycott)
 

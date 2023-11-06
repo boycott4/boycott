@@ -17,8 +17,10 @@
       href="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css"
     />
 <style>
-.custom-button {
-  width: 25rem; /* Adjust the width as needed */
+
+.bc-button {
+  width: 10rem; 
+  margin: 0.2rem;
 }
 </style>
     <!-- Load polyfills to support older browsers -->
@@ -29,6 +31,8 @@
     
     <!-- Include BootstrapVue JS from a CDN -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap-vue@2.21.2/dist/bootstrap-vue.min.js"></script>
+
+    <script src="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue-icons.min.js"></script>
 </head>
 <body style="margin-left:auto;margin-right:auto;margin-top:2rem; border:1px solid black; width:80%;padding:2rem;">
 
@@ -37,6 +41,15 @@
     <div id="app">
               <b-container>
     <hr>
+    <b-card>
+        <a href="">Cori Bush</a>, Sponsor. Representative for Missouri's 1st congressional district. Democrat.
+        <a href="https://www.govinfo.gov/content/pkg/BILLS-118hres786ih/pdf/BILLS-118hres786ih.pdf">Read Text</a> 
+        Last Updated: Oct 25, 2023
+        Length: 2 pages
+        Introduced
+        Oct 16, 2023
+        118th Congress (2023–2025)
+    </b-card>
       <b-form @submit.prevent="submitForm">
             <b-form-group label="Your Name:" label-for="yourName">
                 <b-form-input id="yourName" v-model="yourName" required></b-form-input>
@@ -61,6 +74,11 @@
             <b-form-group label="Date:" label-for="date">
                 <b-form-input type="date" id="date" v-model="date" required></b-form-input>
             </b-form-group>
+
+            <b-button @click="redirectToFindRepresentative" variant="primary" class="custom-button">
+                <b-icon-search></b-icon-search>&nbsp;Find Your Representative
+            </b-button>
+
             <b-form-group label="Recipient's Title:" label-for="recipientTitle">
                 <b-form-input id="recipientTitle" v-model="recipientTitle" required></b-form-input>
             </b-form-group>
@@ -81,12 +99,10 @@
 <template>
     <center>
   <div style="margin-top: 2rem;margin-left:auto;margin-right:auto;">
-    <b-button @click="redirectToFindRepresentative" variant="primary" class="custom-button">
-      Find Your Representative
-    </b-button>
 
-    <b-button @click="printPetition" variant="primary" class="custom-button">
-      Print Petition
+
+    <b-button @click="printPetition" variant="primary" class="bc-button">
+      <b-icon-printer></b-icon-printer>&nbsp;Print Petition
     </b-button>
       
   </div>
