@@ -130,6 +130,7 @@
         <div  style="margin-top: 2rem; width=60%; border=1px solid black; background-color:gray; padding:2rem;">
  
         <b-card id="petition">
+            <div id="contentToConvert">
          <b-row>   
              <b-col sm=1 lg=8>&nbsp;</b-col>
              <b-col>
@@ -168,6 +169,7 @@ Thank you for your attention to this critical issue. I look forward to hearing a
     {{ date }}
     
         </div>
+    </div>
               </b-card>
 
               <b-card class="mt-3 mb-2 p-1">
@@ -260,7 +262,7 @@ Thank you for your attention to this critical issue. I look forward to hearing a
                     printWindow.close();
                 },
                 async generatePDF() {
-                            const element = document.getElementById('petition'); 
+                            const element = document.getElementById('contentToConvert'); 
                             const opt = {
                                 margin: 10,
                                 filename: 'hr786.pdf',
