@@ -118,6 +118,7 @@
     <b-button @click="generatePDF" variant="secondary" class="bc-button">
         <b-icon-file></b-icon-file>&nbsp;Save as PDF
     </b-button>
+
     <b-button @click="printPetition" variant="primary" class="bc-button">
       <b-icon-printer></b-icon-printer>&nbsp;Print Petition
     </b-button>
@@ -260,7 +261,7 @@ Thank you for your attention to this critical issue. I look forward to hearing a
                     printWindow.close();
                 },
                 generatePDF() {
-                    const element = document.getElementById('petition'); /
+                    const element = document.getElementById('petition');
                     const opt = {
                     margin: 10,
                     filename: 'your_document.pdf',
