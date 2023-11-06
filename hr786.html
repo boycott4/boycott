@@ -401,19 +401,19 @@
             printWindow.print()
             printWindow.close()
           },
-          async generatePDF() {
-            const element = document.getElementById('thankyou')
+
+          generatePDF() {
+            const element = document.getElementById('petition')
             if (!element) {
-              console.error(`element not found`)
+              console.error(`element petition not found`)
               return
             }
             const opt = {
               margin: 1,
-              filename: 'hr786.pdf',
-              html2canvas: { scale: 2 },
+              filename: 'petition_hr786.pdf',
+              html2canvas: { scale: 1 },
               jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
-              image: { type: 'jpeg', quality: 0.98 },
-              pagebreak: { mode: 'avoid-all', before: '#page2el' }
+              image: { type: 'jpeg', quality: 0.98 }
             }
 
             // Use html2pdf to generate the PDF
@@ -422,7 +422,7 @@
               .set(opt)
               .outputPdf()
               .then(pdf => {
-                console.log(`saving thankyou pdf`)
+                console.log(`saving petition pdf`)
                 // Create a blob from the PDF data
                 const blob = new Blob([pdf], { type: 'application/pdf' })
 
