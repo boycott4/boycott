@@ -259,21 +259,34 @@ Thank you for your attention to this critical issue. I look forward to hearing a
                     printWindow.print();
                     printWindow.close();
                 },
-                generatePDF() {
-                    const element = document.getElementById('petition');
-                    const opt = {
-                    margin: 10,
-                    filename: 'your_document.pdf',
-                    image: { type: 'jpeg', quality: 0.98 },
-                    html2canvas: { scale: 2 },
-                    jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
-                    };
+                async generatePDF() {
+                            const element = document.getElementById('petition'); // Replace with the ID of your <div>
+                            const opt = {
+                                margin: 10,
+                                filename: 'your_document.pdf',
+                                image: { type: 'jpeg', quality: 0.98 },
+                                html2canvas: { scale: 2 },
+                                jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
+                            };
 
-                    // Use html2pdf to generate the PDF
-                    html2pdf()
-                    .from(element)
-                    .set(opt)
-                    .outputPdf();
+                            // Use html2pdf to generate the PDF
+                            const pdf = await html2pdf().from(element).set(opt).outputPdf();
+
+                            // Create a blob from the PDF data
+                            const blob = new Blob([pdf], { type: 'application/pdf' });
+
+                            // Create a download link
+                            const url = window.URL.createObjectURL(blob);
+                            const a = document.createElement('a');
+                            a.style.display = 'none';
+                            a.href = url;
+                            a.download = opt.filename;
+
+                            // Trigger a click event on the link to open the "Save File" dialog
+                            document.body.appendChild(a);
+                            a.click();
+                            window.URL.revokeObjectURL(url);
+                            document.body.removeChild(a);
                 },
             }
         });
