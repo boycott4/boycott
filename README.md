@@ -50,6 +50,9 @@
 | General Mills | ▪ Use of (Palestinian) natural resources, in particular water and land, for business purposes [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)| ▪ Cheerios<br>▪ Lucky Charms<br>▪ Blue Buffalo<br>▪ Progresso<br>▪ Green Giant<br>▪ Pillsbury<br>▪ Totino's<br>▪ Nature Valley<br>▪ Fiber One<br> | ▪ Shop at [Aldi](https://www.aldi.com/)|
 |||||
 | Motorola Solutions | ▪ Supply of surveillance and identification equipment for settlements, the wall and checkpoints [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)<br/><br/> ▪ [Support of IDF](https://www.brandedgirls.com/brands-that-support-israel/)| | |
+| [Christian Dior]() | ▪ [Prosecuting models for pro-palestine views](https://bnn.network/world/israel/dior-beauty-faces-backlash-after-replacing-bella-hadid-with-israeli-model/)![image](https://github.com/boycott4/boycott/assets/149330045/49643a55-cc41-452f-bd3a-38d9b62c8c41) | ▪ Moët <br/><br/> ▪ Hennessy <br/><br/> ▪ Louis Vuitton||
+||
+|||||
 |||||
 
 ## Non profits  
@@ -97,6 +100,9 @@
 |[Tulsi Gabbard,American politician](https://en.wikipedia.org/wiki/Tulsi_Gabbard)| ▪ [Support for Israel war effort](https://twitter.com/21WIRE/status/1725014630815441203) <img width="561" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/d24ea902-e05b-405a-a3ac-b4c192088366">|▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))||
 |||||
 |[John Fatterman,Senator PA](https://en.wikipedia.org/wiki/John_Fetterman)| ▪ [Support for Israel war effort]([https://twitter.com/21WIRE/status/1725014630815441203](https://twitter.com/safier/status/1724511893128102252)) <img width="532" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/ef4fb62b-085e-4dd6-b51b-6fb7680f6a7b">|▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))||
+|||||
+|[Robert Kennedy,American politician]([https://en.wikipedia.org/wiki/Tulsi_Gabbard](https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.)](https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.))| ▪ [Support for Israel war effort]([https://twitter.com/21WIRE/status/1725014630815441203](https://twitter.com/BowesChay/status/1722577857421983892)) <img width="587" alt="image" src="https://github.com/boycott4/boycott/assets/149330045/985b1950-c623-4549-9a71-187e8ac139e0">|▪ [Democratic Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States))||
+|||||
 |||||
 | | | | |
 
