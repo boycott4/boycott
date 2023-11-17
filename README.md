@@ -51,7 +51,7 @@
 |||||
 | Motorola Solutions | ▪ Supply of surveillance and identification equipment for settlements, the wall and checkpoints [UN Report: HRC 43 71 Business w/Israeli settlements in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session43/Documents/A_HRC_43_71.docx)<br/><br/> ▪ [Support of IDF](https://www.brandedgirls.com/brands-that-support-israel/)| | |
 |||||
-| [Christian Dior]() | ▪ [Prosecuting models for pro-palestine views](https://bnn.network/world/israel/dior-beauty-faces-backlash-after-replacing-bella-hadid-with-israeli-model/)![image](https://github.com/boycott4/boycott/assets/149330045/49643a55-cc41-452f-bd3a-38d9b62c8c41) | ▪ Moët <br/><br/> ▪ Hennessy <br/><br/> ▪ Louis Vuitton||
+| [Christian Dior](https://en.wikipedia.org/wiki/Dior) | ▪ [Prosecuting models for pro-palestine views](https://bnn.network/world/israel/dior-beauty-faces-backlash-after-replacing-bella-hadid-with-israeli-model/)![image](https://github.com/boycott4/boycott/assets/149330045/49643a55-cc41-452f-bd3a-38d9b62c8c41) | ▪ Moët <br/><br/> ▪ Hennessy <br/><br/> ▪ Louis Vuitton| [TODO: validate if this is factually true as there are reports claiming it is not](https://apnews.com/article/bella-hadid-dior-israel-hamas-war-fact-check-aabe93d8f40f0a5a226bd51af36b3343)|
 |||||
 
 ## Non profits  
